@@ -1,0 +1,4332 @@
+[
+	{
+		"id": "11",
+		"pid": 0,
+		"deep": 0,
+		"name": "北京",
+		"pinyin": "bei jing",
+		"pinyin_prefix": "b",
+		"ext_id": "110000000000",
+		"ext_name": "北京市",
+		"childs": [
+			{
+				"id": "1101",
+				"pid": 11,
+				"deep": 1,
+				"name": "北京",
+				"pinyin": "bei jing",
+				"pinyin_prefix": "b",
+				"ext_id": "110100000000",
+				"ext_name": "北京市"
+			}
+		]
+	},
+	{
+		"id": "12",
+		"pid": 0,
+		"deep": 0,
+		"name": "天津",
+		"pinyin": "tian jin",
+		"pinyin_prefix": "t",
+		"ext_id": "120000000000",
+		"ext_name": "天津市",
+		"childs": [
+			{
+				"id": "1201",
+				"pid": 12,
+				"deep": 1,
+				"name": "天津",
+				"pinyin": "tian jin",
+				"pinyin_prefix": "t",
+				"ext_id": "120100000000",
+				"ext_name": "天津市"
+			}
+		]
+	},
+	{
+		"id": "13",
+		"pid": 0,
+		"deep": 0,
+		"name": "河北",
+		"pinyin": "he bei",
+		"pinyin_prefix": "h",
+		"ext_id": "130000000000",
+		"ext_name": "河北省",
+		"childs": [
+			{
+				"id": "1301",
+				"pid": 13,
+				"deep": 1,
+				"name": "石家庄",
+				"pinyin": "shi jia zhuang",
+				"pinyin_prefix": "s",
+				"ext_id": "130100000000",
+				"ext_name": "石家庄市"
+			},
+			{
+				"id": "1302",
+				"pid": 13,
+				"deep": 1,
+				"name": "唐山",
+				"pinyin": "tang shan",
+				"pinyin_prefix": "t",
+				"ext_id": "130200000000",
+				"ext_name": "唐山市"
+			},
+			{
+				"id": "1303",
+				"pid": 13,
+				"deep": 1,
+				"name": "秦皇岛",
+				"pinyin": "qin huang dao",
+				"pinyin_prefix": "q",
+				"ext_id": "130300000000",
+				"ext_name": "秦皇岛市"
+			},
+			{
+				"id": "1304",
+				"pid": 13,
+				"deep": 1,
+				"name": "邯郸",
+				"pinyin": "han dan",
+				"pinyin_prefix": "h",
+				"ext_id": "130400000000",
+				"ext_name": "邯郸市"
+			},
+			{
+				"id": "1305",
+				"pid": 13,
+				"deep": 1,
+				"name": "邢台",
+				"pinyin": "xing tai",
+				"pinyin_prefix": "x",
+				"ext_id": "130500000000",
+				"ext_name": "邢台市"
+			},
+			{
+				"id": "1306",
+				"pid": 13,
+				"deep": 1,
+				"name": "保定",
+				"pinyin": "bao ding",
+				"pinyin_prefix": "b",
+				"ext_id": "130600000000",
+				"ext_name": "保定市"
+			},
+			{
+				"id": "1307",
+				"pid": 13,
+				"deep": 1,
+				"name": "张家口",
+				"pinyin": "zhang jia kou",
+				"pinyin_prefix": "z",
+				"ext_id": "130700000000",
+				"ext_name": "张家口市"
+			},
+			{
+				"id": "1308",
+				"pid": 13,
+				"deep": 1,
+				"name": "承德",
+				"pinyin": "cheng de",
+				"pinyin_prefix": "c",
+				"ext_id": "130800000000",
+				"ext_name": "承德市"
+			},
+			{
+				"id": "1309",
+				"pid": 13,
+				"deep": 1,
+				"name": "沧州",
+				"pinyin": "cang zhou",
+				"pinyin_prefix": "c",
+				"ext_id": "130900000000",
+				"ext_name": "沧州市"
+			},
+			{
+				"id": "1310",
+				"pid": 13,
+				"deep": 1,
+				"name": "廊坊",
+				"pinyin": "lang fang",
+				"pinyin_prefix": "l",
+				"ext_id": "131000000000",
+				"ext_name": "廊坊市"
+			},
+			{
+				"id": "1311",
+				"pid": 13,
+				"deep": 1,
+				"name": "衡水",
+				"pinyin": "heng shui",
+				"pinyin_prefix": "h",
+				"ext_id": "131100000000",
+				"ext_name": "衡水市"
+			}
+		]
+	},
+	{
+		"id": "14",
+		"pid": 0,
+		"deep": 0,
+		"name": "山西",
+		"pinyin": "shan xi",
+		"pinyin_prefix": "s",
+		"ext_id": "140000000000",
+		"ext_name": "山西省",
+		"childs": [
+			{
+				"id": "1401",
+				"pid": 14,
+				"deep": 1,
+				"name": "太原",
+				"pinyin": "tai yuan",
+				"pinyin_prefix": "t",
+				"ext_id": "140100000000",
+				"ext_name": "太原市"
+			},
+			{
+				"id": "1402",
+				"pid": 14,
+				"deep": 1,
+				"name": "大同",
+				"pinyin": "da tong",
+				"pinyin_prefix": "d",
+				"ext_id": "140200000000",
+				"ext_name": "大同市"
+			},
+			{
+				"id": "1403",
+				"pid": 14,
+				"deep": 1,
+				"name": "阳泉",
+				"pinyin": "yang quan",
+				"pinyin_prefix": "y",
+				"ext_id": "140300000000",
+				"ext_name": "阳泉市"
+			},
+			{
+				"id": "1404",
+				"pid": 14,
+				"deep": 1,
+				"name": "长治",
+				"pinyin": "chang zhi",
+				"pinyin_prefix": "c",
+				"ext_id": "140400000000",
+				"ext_name": "长治市"
+			},
+			{
+				"id": "1405",
+				"pid": 14,
+				"deep": 1,
+				"name": "晋城",
+				"pinyin": "jin cheng",
+				"pinyin_prefix": "j",
+				"ext_id": "140500000000",
+				"ext_name": "晋城市"
+			},
+			{
+				"id": "1406",
+				"pid": 14,
+				"deep": 1,
+				"name": "朔州",
+				"pinyin": "shuo zhou",
+				"pinyin_prefix": "s",
+				"ext_id": "140600000000",
+				"ext_name": "朔州市"
+			},
+			{
+				"id": "1407",
+				"pid": 14,
+				"deep": 1,
+				"name": "晋中",
+				"pinyin": "jin zhong",
+				"pinyin_prefix": "j",
+				"ext_id": "140700000000",
+				"ext_name": "晋中市"
+			},
+			{
+				"id": "1408",
+				"pid": 14,
+				"deep": 1,
+				"name": "运城",
+				"pinyin": "yun cheng",
+				"pinyin_prefix": "y",
+				"ext_id": "140800000000",
+				"ext_name": "运城市"
+			},
+			{
+				"id": "1409",
+				"pid": 14,
+				"deep": 1,
+				"name": "忻州",
+				"pinyin": "xin zhou",
+				"pinyin_prefix": "x",
+				"ext_id": "140900000000",
+				"ext_name": "忻州市"
+			},
+			{
+				"id": "1410",
+				"pid": 14,
+				"deep": 1,
+				"name": "临汾",
+				"pinyin": "lin fen",
+				"pinyin_prefix": "l",
+				"ext_id": "141000000000",
+				"ext_name": "临汾市"
+			},
+			{
+				"id": "1411",
+				"pid": 14,
+				"deep": 1,
+				"name": "吕梁",
+				"pinyin": "lv liang",
+				"pinyin_prefix": "l",
+				"ext_id": "141100000000",
+				"ext_name": "吕梁市"
+			}
+		]
+	},
+	{
+		"id": "15",
+		"pid": 0,
+		"deep": 0,
+		"name": "内蒙古",
+		"pinyin": "nei meng gu",
+		"pinyin_prefix": "n",
+		"ext_id": "150000000000",
+		"ext_name": "内蒙古自治区",
+		"childs": [
+			{
+				"id": "1501",
+				"pid": 15,
+				"deep": 1,
+				"name": "呼和浩特",
+				"pinyin": "hu he hao te",
+				"pinyin_prefix": "h",
+				"ext_id": "150100000000",
+				"ext_name": "呼和浩特市"
+			},
+			{
+				"id": "1502",
+				"pid": 15,
+				"deep": 1,
+				"name": "包头",
+				"pinyin": "bao tou",
+				"pinyin_prefix": "b",
+				"ext_id": "150200000000",
+				"ext_name": "包头市"
+			},
+			{
+				"id": "1503",
+				"pid": 15,
+				"deep": 1,
+				"name": "乌海",
+				"pinyin": "wu hai",
+				"pinyin_prefix": "w",
+				"ext_id": "150300000000",
+				"ext_name": "乌海市"
+			},
+			{
+				"id": "1504",
+				"pid": 15,
+				"deep": 1,
+				"name": "赤峰",
+				"pinyin": "chi feng",
+				"pinyin_prefix": "c",
+				"ext_id": "150400000000",
+				"ext_name": "赤峰市"
+			},
+			{
+				"id": "1505",
+				"pid": 15,
+				"deep": 1,
+				"name": "通辽",
+				"pinyin": "tong liao",
+				"pinyin_prefix": "t",
+				"ext_id": "150500000000",
+				"ext_name": "通辽市"
+			},
+			{
+				"id": "1506",
+				"pid": 15,
+				"deep": 1,
+				"name": "鄂尔多斯",
+				"pinyin": "e er duo si",
+				"pinyin_prefix": "e",
+				"ext_id": "150600000000",
+				"ext_name": "鄂尔多斯市"
+			},
+			{
+				"id": "1507",
+				"pid": 15,
+				"deep": 1,
+				"name": "呼伦贝尔",
+				"pinyin": "hu lun bei er",
+				"pinyin_prefix": "h",
+				"ext_id": "150700000000",
+				"ext_name": "呼伦贝尔市"
+			},
+			{
+				"id": "1508",
+				"pid": 15,
+				"deep": 1,
+				"name": "巴彦淖尔",
+				"pinyin": "ba yan nao er",
+				"pinyin_prefix": "b",
+				"ext_id": "150800000000",
+				"ext_name": "巴彦淖尔市"
+			},
+			{
+				"id": "1509",
+				"pid": 15,
+				"deep": 1,
+				"name": "乌兰察布",
+				"pinyin": "wu lan cha bu",
+				"pinyin_prefix": "w",
+				"ext_id": "150900000000",
+				"ext_name": "乌兰察布市"
+			},
+			{
+				"id": "1522",
+				"pid": 15,
+				"deep": 1,
+				"name": "兴安",
+				"pinyin": "xing an",
+				"pinyin_prefix": "x",
+				"ext_id": "152200000000",
+				"ext_name": "兴安盟"
+			},
+			{
+				"id": "1525",
+				"pid": 15,
+				"deep": 1,
+				"name": "锡林郭勒",
+				"pinyin": "xi lin guo le",
+				"pinyin_prefix": "x",
+				"ext_id": "152500000000",
+				"ext_name": "锡林郭勒盟"
+			},
+			{
+				"id": "1529",
+				"pid": 15,
+				"deep": 1,
+				"name": "阿拉善",
+				"pinyin": "a la shan",
+				"pinyin_prefix": "a",
+				"ext_id": "152900000000",
+				"ext_name": "阿拉善盟"
+			}
+		]
+	},
+	{
+		"id": "21",
+		"pid": 0,
+		"deep": 0,
+		"name": "辽宁",
+		"pinyin": "liao ning",
+		"pinyin_prefix": "l",
+		"ext_id": "210000000000",
+		"ext_name": "辽宁省",
+		"childs": [
+			{
+				"id": "2101",
+				"pid": 21,
+				"deep": 1,
+				"name": "沈阳",
+				"pinyin": "shen yang",
+				"pinyin_prefix": "s",
+				"ext_id": "210100000000",
+				"ext_name": "沈阳市"
+			},
+			{
+				"id": "2102",
+				"pid": 21,
+				"deep": 1,
+				"name": "大连",
+				"pinyin": "da lian",
+				"pinyin_prefix": "d",
+				"ext_id": "210200000000",
+				"ext_name": "大连市"
+			},
+			{
+				"id": "2103",
+				"pid": 21,
+				"deep": 1,
+				"name": "鞍山",
+				"pinyin": "an shan",
+				"pinyin_prefix": "a",
+				"ext_id": "210300000000",
+				"ext_name": "鞍山市"
+			},
+			{
+				"id": "2104",
+				"pid": 21,
+				"deep": 1,
+				"name": "抚顺",
+				"pinyin": "fu shun",
+				"pinyin_prefix": "f",
+				"ext_id": "210400000000",
+				"ext_name": "抚顺市"
+			},
+			{
+				"id": "2105",
+				"pid": 21,
+				"deep": 1,
+				"name": "本溪",
+				"pinyin": "ben xi",
+				"pinyin_prefix": "b",
+				"ext_id": "210500000000",
+				"ext_name": "本溪市"
+			},
+			{
+				"id": "2106",
+				"pid": 21,
+				"deep": 1,
+				"name": "丹东",
+				"pinyin": "dan dong",
+				"pinyin_prefix": "d",
+				"ext_id": "210600000000",
+				"ext_name": "丹东市"
+			},
+			{
+				"id": "2107",
+				"pid": 21,
+				"deep": 1,
+				"name": "锦州",
+				"pinyin": "jin zhou",
+				"pinyin_prefix": "j",
+				"ext_id": "210700000000",
+				"ext_name": "锦州市"
+			},
+			{
+				"id": "2108",
+				"pid": 21,
+				"deep": 1,
+				"name": "营口",
+				"pinyin": "ying kou",
+				"pinyin_prefix": "y",
+				"ext_id": "210800000000",
+				"ext_name": "营口市"
+			},
+			{
+				"id": "2109",
+				"pid": 21,
+				"deep": 1,
+				"name": "阜新",
+				"pinyin": "fu xin",
+				"pinyin_prefix": "f",
+				"ext_id": "210900000000",
+				"ext_name": "阜新市"
+			},
+			{
+				"id": "2110",
+				"pid": 21,
+				"deep": 1,
+				"name": "辽阳",
+				"pinyin": "liao yang",
+				"pinyin_prefix": "l",
+				"ext_id": "211000000000",
+				"ext_name": "辽阳市"
+			},
+			{
+				"id": "2111",
+				"pid": 21,
+				"deep": 1,
+				"name": "盘锦",
+				"pinyin": "pan jin",
+				"pinyin_prefix": "p",
+				"ext_id": "211100000000",
+				"ext_name": "盘锦市"
+			},
+			{
+				"id": "2112",
+				"pid": 21,
+				"deep": 1,
+				"name": "铁岭",
+				"pinyin": "tie ling",
+				"pinyin_prefix": "t",
+				"ext_id": "211200000000",
+				"ext_name": "铁岭市"
+			},
+			{
+				"id": "2113",
+				"pid": 21,
+				"deep": 1,
+				"name": "朝阳",
+				"pinyin": "chao yang",
+				"pinyin_prefix": "c",
+				"ext_id": "211300000000",
+				"ext_name": "朝阳市"
+			},
+			{
+				"id": "2114",
+				"pid": 21,
+				"deep": 1,
+				"name": "葫芦岛",
+				"pinyin": "hu lu dao",
+				"pinyin_prefix": "h",
+				"ext_id": "211400000000",
+				"ext_name": "葫芦岛市"
+			}
+		]
+	},
+	{
+		"id": "22",
+		"pid": 0,
+		"deep": 0,
+		"name": "吉林",
+		"pinyin": "ji lin",
+		"pinyin_prefix": "j",
+		"ext_id": "220000000000",
+		"ext_name": "吉林省",
+		"childs": [
+			{
+				"id": "2201",
+				"pid": 22,
+				"deep": 1,
+				"name": "长春",
+				"pinyin": "chang chun",
+				"pinyin_prefix": "c",
+				"ext_id": "220100000000",
+				"ext_name": "长春市"
+			},
+			{
+				"id": "2202",
+				"pid": 22,
+				"deep": 1,
+				"name": "吉林市",
+				"pinyin": "ji lin shi",
+				"pinyin_prefix": "j",
+				"ext_id": "220200000000",
+				"ext_name": "吉林市"
+			},
+			{
+				"id": "2203",
+				"pid": 22,
+				"deep": 1,
+				"name": "四平",
+				"pinyin": "si ping",
+				"pinyin_prefix": "s",
+				"ext_id": "220300000000",
+				"ext_name": "四平市"
+			},
+			{
+				"id": "2204",
+				"pid": 22,
+				"deep": 1,
+				"name": "辽源",
+				"pinyin": "liao yuan",
+				"pinyin_prefix": "l",
+				"ext_id": "220400000000",
+				"ext_name": "辽源市"
+			},
+			{
+				"id": "2205",
+				"pid": 22,
+				"deep": 1,
+				"name": "通化",
+				"pinyin": "tong hua",
+				"pinyin_prefix": "t",
+				"ext_id": "220500000000",
+				"ext_name": "通化市"
+			},
+			{
+				"id": "2206",
+				"pid": 22,
+				"deep": 1,
+				"name": "白山",
+				"pinyin": "bai shan",
+				"pinyin_prefix": "b",
+				"ext_id": "220600000000",
+				"ext_name": "白山市"
+			},
+			{
+				"id": "2207",
+				"pid": 22,
+				"deep": 1,
+				"name": "松原",
+				"pinyin": "song yuan",
+				"pinyin_prefix": "s",
+				"ext_id": "220700000000",
+				"ext_name": "松原市"
+			},
+			{
+				"id": "2208",
+				"pid": 22,
+				"deep": 1,
+				"name": "白城",
+				"pinyin": "bai cheng",
+				"pinyin_prefix": "b",
+				"ext_id": "220800000000",
+				"ext_name": "白城市"
+			},
+			{
+				"id": "2224",
+				"pid": 22,
+				"deep": 1,
+				"name": "延边",
+				"pinyin": "yan bian",
+				"pinyin_prefix": "y",
+				"ext_id": "222400000000",
+				"ext_name": "延边朝鲜族自治州"
+			}
+		]
+	},
+	{
+		"id": "23",
+		"pid": 0,
+		"deep": 0,
+		"name": "黑龙江",
+		"pinyin": "hei long jiang",
+		"pinyin_prefix": "h",
+		"ext_id": "230000000000",
+		"ext_name": "黑龙江省",
+		"childs": [
+			{
+				"id": "2301",
+				"pid": 23,
+				"deep": 1,
+				"name": "哈尔滨",
+				"pinyin": "ha er bin",
+				"pinyin_prefix": "h",
+				"ext_id": "230100000000",
+				"ext_name": "哈尔滨市"
+			},
+			{
+				"id": "2302",
+				"pid": 23,
+				"deep": 1,
+				"name": "齐齐哈尔",
+				"pinyin": "qi qi ha er",
+				"pinyin_prefix": "q",
+				"ext_id": "230200000000",
+				"ext_name": "齐齐哈尔市"
+			},
+			{
+				"id": "2303",
+				"pid": 23,
+				"deep": 1,
+				"name": "鸡西",
+				"pinyin": "ji xi",
+				"pinyin_prefix": "j",
+				"ext_id": "230300000000",
+				"ext_name": "鸡西市"
+			},
+			{
+				"id": "2304",
+				"pid": 23,
+				"deep": 1,
+				"name": "鹤岗",
+				"pinyin": "he gang",
+				"pinyin_prefix": "h",
+				"ext_id": "230400000000",
+				"ext_name": "鹤岗市"
+			},
+			{
+				"id": "2305",
+				"pid": 23,
+				"deep": 1,
+				"name": "双鸭山",
+				"pinyin": "shuang ya shan",
+				"pinyin_prefix": "s",
+				"ext_id": "230500000000",
+				"ext_name": "双鸭山市"
+			},
+			{
+				"id": "2306",
+				"pid": 23,
+				"deep": 1,
+				"name": "大庆",
+				"pinyin": "da qing",
+				"pinyin_prefix": "d",
+				"ext_id": "230600000000",
+				"ext_name": "大庆市"
+			},
+			{
+				"id": "2307",
+				"pid": 23,
+				"deep": 1,
+				"name": "伊春",
+				"pinyin": "yi chun",
+				"pinyin_prefix": "y",
+				"ext_id": "230700000000",
+				"ext_name": "伊春市"
+			},
+			{
+				"id": "2308",
+				"pid": 23,
+				"deep": 1,
+				"name": "佳木斯",
+				"pinyin": "jia mu si",
+				"pinyin_prefix": "j",
+				"ext_id": "230800000000",
+				"ext_name": "佳木斯市"
+			},
+			{
+				"id": "2309",
+				"pid": 23,
+				"deep": 1,
+				"name": "七台河",
+				"pinyin": "qi tai he",
+				"pinyin_prefix": "q",
+				"ext_id": "230900000000",
+				"ext_name": "七台河市"
+			},
+			{
+				"id": "2310",
+				"pid": 23,
+				"deep": 1,
+				"name": "牡丹江",
+				"pinyin": "mu dan jiang",
+				"pinyin_prefix": "m",
+				"ext_id": "231000000000",
+				"ext_name": "牡丹江市"
+			},
+			{
+				"id": "2311",
+				"pid": 23,
+				"deep": 1,
+				"name": "黑河",
+				"pinyin": "hei he",
+				"pinyin_prefix": "h",
+				"ext_id": "231100000000",
+				"ext_name": "黑河市"
+			},
+			{
+				"id": "2312",
+				"pid": 23,
+				"deep": 1,
+				"name": "绥化",
+				"pinyin": "sui hua",
+				"pinyin_prefix": "s",
+				"ext_id": "231200000000",
+				"ext_name": "绥化市"
+			},
+			{
+				"id": "2327",
+				"pid": 23,
+				"deep": 1,
+				"name": "大兴安岭",
+				"pinyin": "da xing an ling",
+				"pinyin_prefix": "d",
+				"ext_id": "232700000000",
+				"ext_name": "大兴安岭地区"
+			}
+		]
+	},
+	{
+		"id": "31",
+		"pid": 0,
+		"deep": 0,
+		"name": "上海",
+		"pinyin": "shang hai",
+		"pinyin_prefix": "s",
+		"ext_id": "310000000000",
+		"ext_name": "上海市",
+		"childs": [
+			{
+				"id": "3101",
+				"pid": 31,
+				"deep": 1,
+				"name": "上海",
+				"pinyin": "shang hai",
+				"pinyin_prefix": "s",
+				"ext_id": "310100000000",
+				"ext_name": "上海市"
+			}
+		]
+	},
+	{
+		"id": "32",
+		"pid": 0,
+		"deep": 0,
+		"name": "江苏",
+		"pinyin": "jiang su",
+		"pinyin_prefix": "j",
+		"ext_id": "320000000000",
+		"ext_name": "江苏省",
+		"childs": [
+			{
+				"id": "3201",
+				"pid": 32,
+				"deep": 1,
+				"name": "南京",
+				"pinyin": "nan jing",
+				"pinyin_prefix": "n",
+				"ext_id": "320100000000",
+				"ext_name": "南京市"
+			},
+			{
+				"id": "3202",
+				"pid": 32,
+				"deep": 1,
+				"name": "无锡",
+				"pinyin": "wu xi",
+				"pinyin_prefix": "w",
+				"ext_id": "320200000000",
+				"ext_name": "无锡市"
+			},
+			{
+				"id": "3203",
+				"pid": 32,
+				"deep": 1,
+				"name": "徐州",
+				"pinyin": "xu zhou",
+				"pinyin_prefix": "x",
+				"ext_id": "320300000000",
+				"ext_name": "徐州市"
+			},
+			{
+				"id": "3204",
+				"pid": 32,
+				"deep": 1,
+				"name": "常州",
+				"pinyin": "chang zhou",
+				"pinyin_prefix": "c",
+				"ext_id": "320400000000",
+				"ext_name": "常州市"
+			},
+			{
+				"id": "3205",
+				"pid": 32,
+				"deep": 1,
+				"name": "苏州",
+				"pinyin": "su zhou",
+				"pinyin_prefix": "s",
+				"ext_id": "320500000000",
+				"ext_name": "苏州市"
+			},
+			{
+				"id": "3206",
+				"pid": 32,
+				"deep": 1,
+				"name": "南通",
+				"pinyin": "nan tong",
+				"pinyin_prefix": "n",
+				"ext_id": "320600000000",
+				"ext_name": "南通市"
+			},
+			{
+				"id": "3207",
+				"pid": 32,
+				"deep": 1,
+				"name": "连云港",
+				"pinyin": "lian yun gang",
+				"pinyin_prefix": "l",
+				"ext_id": "320700000000",
+				"ext_name": "连云港市"
+			},
+			{
+				"id": "3208",
+				"pid": 32,
+				"deep": 1,
+				"name": "淮安",
+				"pinyin": "huai an",
+				"pinyin_prefix": "h",
+				"ext_id": "320800000000",
+				"ext_name": "淮安市"
+			},
+			{
+				"id": "3209",
+				"pid": 32,
+				"deep": 1,
+				"name": "盐城",
+				"pinyin": "yan cheng",
+				"pinyin_prefix": "y",
+				"ext_id": "320900000000",
+				"ext_name": "盐城市"
+			},
+			{
+				"id": "3210",
+				"pid": 32,
+				"deep": 1,
+				"name": "扬州",
+				"pinyin": "yang zhou",
+				"pinyin_prefix": "y",
+				"ext_id": "321000000000",
+				"ext_name": "扬州市"
+			},
+			{
+				"id": "3211",
+				"pid": 32,
+				"deep": 1,
+				"name": "镇江",
+				"pinyin": "zhen jiang",
+				"pinyin_prefix": "z",
+				"ext_id": "321100000000",
+				"ext_name": "镇江市"
+			},
+			{
+				"id": "3212",
+				"pid": 32,
+				"deep": 1,
+				"name": "泰州",
+				"pinyin": "tai zhou",
+				"pinyin_prefix": "t",
+				"ext_id": "321200000000",
+				"ext_name": "泰州市"
+			},
+			{
+				"id": "3213",
+				"pid": 32,
+				"deep": 1,
+				"name": "宿迁",
+				"pinyin": "su qian",
+				"pinyin_prefix": "s",
+				"ext_id": "321300000000",
+				"ext_name": "宿迁市"
+			}
+		]
+	},
+	{
+		"id": "33",
+		"pid": 0,
+		"deep": 0,
+		"name": "浙江",
+		"pinyin": "zhe jiang",
+		"pinyin_prefix": "z",
+		"ext_id": "330000000000",
+		"ext_name": "浙江省",
+		"childs": [
+			{
+				"id": "3301",
+				"pid": 33,
+				"deep": 1,
+				"name": "杭州",
+				"pinyin": "hang zhou",
+				"pinyin_prefix": "h",
+				"ext_id": "330100000000",
+				"ext_name": "杭州市"
+			},
+			{
+				"id": "3302",
+				"pid": 33,
+				"deep": 1,
+				"name": "宁波",
+				"pinyin": "ning bo",
+				"pinyin_prefix": "n",
+				"ext_id": "330200000000",
+				"ext_name": "宁波市"
+			},
+			{
+				"id": "3303",
+				"pid": 33,
+				"deep": 1,
+				"name": "温州",
+				"pinyin": "wen zhou",
+				"pinyin_prefix": "w",
+				"ext_id": "330300000000",
+				"ext_name": "温州市"
+			},
+			{
+				"id": "3304",
+				"pid": 33,
+				"deep": 1,
+				"name": "嘉兴",
+				"pinyin": "jia xing",
+				"pinyin_prefix": "j",
+				"ext_id": "330400000000",
+				"ext_name": "嘉兴市"
+			},
+			{
+				"id": "3305",
+				"pid": 33,
+				"deep": 1,
+				"name": "湖州",
+				"pinyin": "hu zhou",
+				"pinyin_prefix": "h",
+				"ext_id": "330500000000",
+				"ext_name": "湖州市"
+			},
+			{
+				"id": "3306",
+				"pid": 33,
+				"deep": 1,
+				"name": "绍兴",
+				"pinyin": "shao xing",
+				"pinyin_prefix": "s",
+				"ext_id": "330600000000",
+				"ext_name": "绍兴市"
+			},
+			{
+				"id": "3307",
+				"pid": 33,
+				"deep": 1,
+				"name": "金华",
+				"pinyin": "jin hua",
+				"pinyin_prefix": "j",
+				"ext_id": "330700000000",
+				"ext_name": "金华市"
+			},
+			{
+				"id": "3308",
+				"pid": 33,
+				"deep": 1,
+				"name": "衢州",
+				"pinyin": "qu zhou",
+				"pinyin_prefix": "q",
+				"ext_id": "330800000000",
+				"ext_name": "衢州市"
+			},
+			{
+				"id": "3309",
+				"pid": 33,
+				"deep": 1,
+				"name": "舟山",
+				"pinyin": "zhou shan",
+				"pinyin_prefix": "z",
+				"ext_id": "330900000000",
+				"ext_name": "舟山市"
+			},
+			{
+				"id": "3310",
+				"pid": 33,
+				"deep": 1,
+				"name": "台州",
+				"pinyin": "tai zhou",
+				"pinyin_prefix": "t",
+				"ext_id": "331000000000",
+				"ext_name": "台州市"
+			},
+			{
+				"id": "3311",
+				"pid": 33,
+				"deep": 1,
+				"name": "丽水",
+				"pinyin": "li shui",
+				"pinyin_prefix": "l",
+				"ext_id": "331100000000",
+				"ext_name": "丽水市"
+			}
+		]
+	},
+	{
+		"id": "34",
+		"pid": 0,
+		"deep": 0,
+		"name": "安徽",
+		"pinyin": "an hui",
+		"pinyin_prefix": "a",
+		"ext_id": "340000000000",
+		"ext_name": "安徽省",
+		"childs": [
+			{
+				"id": "3401",
+				"pid": 34,
+				"deep": 1,
+				"name": "合肥",
+				"pinyin": "he fei",
+				"pinyin_prefix": "h",
+				"ext_id": "340100000000",
+				"ext_name": "合肥市"
+			},
+			{
+				"id": "3402",
+				"pid": 34,
+				"deep": 1,
+				"name": "芜湖",
+				"pinyin": "wu hu",
+				"pinyin_prefix": "w",
+				"ext_id": "340200000000",
+				"ext_name": "芜湖市"
+			},
+			{
+				"id": "3403",
+				"pid": 34,
+				"deep": 1,
+				"name": "蚌埠",
+				"pinyin": "beng bu",
+				"pinyin_prefix": "b",
+				"ext_id": "340300000000",
+				"ext_name": "蚌埠市"
+			},
+			{
+				"id": "3404",
+				"pid": 34,
+				"deep": 1,
+				"name": "淮南",
+				"pinyin": "huai nan",
+				"pinyin_prefix": "h",
+				"ext_id": "340400000000",
+				"ext_name": "淮南市"
+			},
+			{
+				"id": "3405",
+				"pid": 34,
+				"deep": 1,
+				"name": "马鞍山",
+				"pinyin": "ma an shan",
+				"pinyin_prefix": "m",
+				"ext_id": "340500000000",
+				"ext_name": "马鞍山市"
+			},
+			{
+				"id": "3406",
+				"pid": 34,
+				"deep": 1,
+				"name": "淮北",
+				"pinyin": "huai bei",
+				"pinyin_prefix": "h",
+				"ext_id": "340600000000",
+				"ext_name": "淮北市"
+			},
+			{
+				"id": "3407",
+				"pid": 34,
+				"deep": 1,
+				"name": "铜陵",
+				"pinyin": "tong ling",
+				"pinyin_prefix": "t",
+				"ext_id": "340700000000",
+				"ext_name": "铜陵市"
+			},
+			{
+				"id": "3408",
+				"pid": 34,
+				"deep": 1,
+				"name": "安庆",
+				"pinyin": "an qing",
+				"pinyin_prefix": "a",
+				"ext_id": "340800000000",
+				"ext_name": "安庆市"
+			},
+			{
+				"id": "3410",
+				"pid": 34,
+				"deep": 1,
+				"name": "黄山",
+				"pinyin": "huang shan",
+				"pinyin_prefix": "h",
+				"ext_id": "341000000000",
+				"ext_name": "黄山市"
+			},
+			{
+				"id": "3411",
+				"pid": 34,
+				"deep": 1,
+				"name": "滁州",
+				"pinyin": "chu zhou",
+				"pinyin_prefix": "c",
+				"ext_id": "341100000000",
+				"ext_name": "滁州市"
+			},
+			{
+				"id": "3412",
+				"pid": 34,
+				"deep": 1,
+				"name": "阜阳",
+				"pinyin": "fu yang",
+				"pinyin_prefix": "f",
+				"ext_id": "341200000000",
+				"ext_name": "阜阳市"
+			},
+			{
+				"id": "3413",
+				"pid": 34,
+				"deep": 1,
+				"name": "宿州",
+				"pinyin": "su zhou",
+				"pinyin_prefix": "s",
+				"ext_id": "341300000000",
+				"ext_name": "宿州市"
+			},
+			{
+				"id": "3415",
+				"pid": 34,
+				"deep": 1,
+				"name": "六安",
+				"pinyin": "lu an",
+				"pinyin_prefix": "l",
+				"ext_id": "341500000000",
+				"ext_name": "六安市"
+			},
+			{
+				"id": "3416",
+				"pid": 34,
+				"deep": 1,
+				"name": "亳州",
+				"pinyin": "bo zhou",
+				"pinyin_prefix": "b",
+				"ext_id": "341600000000",
+				"ext_name": "亳州市"
+			},
+			{
+				"id": "3417",
+				"pid": 34,
+				"deep": 1,
+				"name": "池州",
+				"pinyin": "chi zhou",
+				"pinyin_prefix": "c",
+				"ext_id": "341700000000",
+				"ext_name": "池州市"
+			},
+			{
+				"id": "3418",
+				"pid": 34,
+				"deep": 1,
+				"name": "宣城",
+				"pinyin": "xuan cheng",
+				"pinyin_prefix": "x",
+				"ext_id": "341800000000",
+				"ext_name": "宣城市"
+			}
+		]
+	},
+	{
+		"id": "35",
+		"pid": 0,
+		"deep": 0,
+		"name": "福建",
+		"pinyin": "fu jian",
+		"pinyin_prefix": "f",
+		"ext_id": "350000000000",
+		"ext_name": "福建省",
+		"childs": [
+			{
+				"id": "3501",
+				"pid": 35,
+				"deep": 1,
+				"name": "福州",
+				"pinyin": "fu zhou",
+				"pinyin_prefix": "f",
+				"ext_id": "350100000000",
+				"ext_name": "福州市"
+			},
+			{
+				"id": "3502",
+				"pid": 35,
+				"deep": 1,
+				"name": "厦门",
+				"pinyin": "xia men",
+				"pinyin_prefix": "x",
+				"ext_id": "350200000000",
+				"ext_name": "厦门市"
+			},
+			{
+				"id": "3503",
+				"pid": 35,
+				"deep": 1,
+				"name": "莆田",
+				"pinyin": "pu tian",
+				"pinyin_prefix": "p",
+				"ext_id": "350300000000",
+				"ext_name": "莆田市"
+			},
+			{
+				"id": "3504",
+				"pid": 35,
+				"deep": 1,
+				"name": "三明",
+				"pinyin": "san ming",
+				"pinyin_prefix": "s",
+				"ext_id": "350400000000",
+				"ext_name": "三明市"
+			},
+			{
+				"id": "3505",
+				"pid": 35,
+				"deep": 1,
+				"name": "泉州",
+				"pinyin": "quan zhou",
+				"pinyin_prefix": "q",
+				"ext_id": "350500000000",
+				"ext_name": "泉州市"
+			},
+			{
+				"id": "3506",
+				"pid": 35,
+				"deep": 1,
+				"name": "漳州",
+				"pinyin": "zhang zhou",
+				"pinyin_prefix": "z",
+				"ext_id": "350600000000",
+				"ext_name": "漳州市"
+			},
+			{
+				"id": "3507",
+				"pid": 35,
+				"deep": 1,
+				"name": "南平",
+				"pinyin": "nan ping",
+				"pinyin_prefix": "n",
+				"ext_id": "350700000000",
+				"ext_name": "南平市"
+			},
+			{
+				"id": "3508",
+				"pid": 35,
+				"deep": 1,
+				"name": "龙岩",
+				"pinyin": "long yan",
+				"pinyin_prefix": "l",
+				"ext_id": "350800000000",
+				"ext_name": "龙岩市"
+			},
+			{
+				"id": "3509",
+				"pid": 35,
+				"deep": 1,
+				"name": "宁德",
+				"pinyin": "ning de",
+				"pinyin_prefix": "n",
+				"ext_id": "350900000000",
+				"ext_name": "宁德市"
+			}
+		]
+	},
+	{
+		"id": "36",
+		"pid": 0,
+		"deep": 0,
+		"name": "江西",
+		"pinyin": "jiang xi",
+		"pinyin_prefix": "j",
+		"ext_id": "360000000000",
+		"ext_name": "江西省",
+		"childs": [
+			{
+				"id": "3601",
+				"pid": 36,
+				"deep": 1,
+				"name": "南昌",
+				"pinyin": "nan chang",
+				"pinyin_prefix": "n",
+				"ext_id": "360100000000",
+				"ext_name": "南昌市"
+			},
+			{
+				"id": "3602",
+				"pid": 36,
+				"deep": 1,
+				"name": "景德镇",
+				"pinyin": "jing de zhen",
+				"pinyin_prefix": "j",
+				"ext_id": "360200000000",
+				"ext_name": "景德镇市"
+			},
+			{
+				"id": "3603",
+				"pid": 36,
+				"deep": 1,
+				"name": "萍乡",
+				"pinyin": "ping xiang",
+				"pinyin_prefix": "p",
+				"ext_id": "360300000000",
+				"ext_name": "萍乡市"
+			},
+			{
+				"id": "3604",
+				"pid": 36,
+				"deep": 1,
+				"name": "九江",
+				"pinyin": "jiu jiang",
+				"pinyin_prefix": "j",
+				"ext_id": "360400000000",
+				"ext_name": "九江市"
+			},
+			{
+				"id": "3605",
+				"pid": 36,
+				"deep": 1,
+				"name": "新余",
+				"pinyin": "xin yu",
+				"pinyin_prefix": "x",
+				"ext_id": "360500000000",
+				"ext_name": "新余市"
+			},
+			{
+				"id": "3606",
+				"pid": 36,
+				"deep": 1,
+				"name": "鹰潭",
+				"pinyin": "ying tan",
+				"pinyin_prefix": "y",
+				"ext_id": "360600000000",
+				"ext_name": "鹰潭市"
+			},
+			{
+				"id": "3607",
+				"pid": 36,
+				"deep": 1,
+				"name": "赣州",
+				"pinyin": "gan zhou",
+				"pinyin_prefix": "g",
+				"ext_id": "360700000000",
+				"ext_name": "赣州市"
+			},
+			{
+				"id": "3608",
+				"pid": 36,
+				"deep": 1,
+				"name": "吉安",
+				"pinyin": "ji an",
+				"pinyin_prefix": "j",
+				"ext_id": "360800000000",
+				"ext_name": "吉安市"
+			},
+			{
+				"id": "3609",
+				"pid": 36,
+				"deep": 1,
+				"name": "宜春",
+				"pinyin": "yi chun",
+				"pinyin_prefix": "y",
+				"ext_id": "360900000000",
+				"ext_name": "宜春市"
+			},
+			{
+				"id": "3610",
+				"pid": 36,
+				"deep": 1,
+				"name": "抚州",
+				"pinyin": "fu zhou",
+				"pinyin_prefix": "f",
+				"ext_id": "361000000000",
+				"ext_name": "抚州市"
+			},
+			{
+				"id": "3611",
+				"pid": 36,
+				"deep": 1,
+				"name": "上饶",
+				"pinyin": "shang rao",
+				"pinyin_prefix": "s",
+				"ext_id": "361100000000",
+				"ext_name": "上饶市"
+			}
+		]
+	},
+	{
+		"id": "37",
+		"pid": 0,
+		"deep": 0,
+		"name": "山东",
+		"pinyin": "shan dong",
+		"pinyin_prefix": "s",
+		"ext_id": "370000000000",
+		"ext_name": "山东省",
+		"childs": [
+			{
+				"id": "3701",
+				"pid": 37,
+				"deep": 1,
+				"name": "济南",
+				"pinyin": "ji nan",
+				"pinyin_prefix": "j",
+				"ext_id": "370100000000",
+				"ext_name": "济南市"
+			},
+			{
+				"id": "3702",
+				"pid": 37,
+				"deep": 1,
+				"name": "青岛",
+				"pinyin": "qing dao",
+				"pinyin_prefix": "q",
+				"ext_id": "370200000000",
+				"ext_name": "青岛市"
+			},
+			{
+				"id": "3703",
+				"pid": 37,
+				"deep": 1,
+				"name": "淄博",
+				"pinyin": "zi bo",
+				"pinyin_prefix": "z",
+				"ext_id": "370300000000",
+				"ext_name": "淄博市"
+			},
+			{
+				"id": "3704",
+				"pid": 37,
+				"deep": 1,
+				"name": "枣庄",
+				"pinyin": "zao zhuang",
+				"pinyin_prefix": "z",
+				"ext_id": "370400000000",
+				"ext_name": "枣庄市"
+			},
+			{
+				"id": "3705",
+				"pid": 37,
+				"deep": 1,
+				"name": "东营",
+				"pinyin": "dong ying",
+				"pinyin_prefix": "d",
+				"ext_id": "370500000000",
+				"ext_name": "东营市"
+			},
+			{
+				"id": "3706",
+				"pid": 37,
+				"deep": 1,
+				"name": "烟台",
+				"pinyin": "yan tai",
+				"pinyin_prefix": "y",
+				"ext_id": "370600000000",
+				"ext_name": "烟台市"
+			},
+			{
+				"id": "3707",
+				"pid": 37,
+				"deep": 1,
+				"name": "潍坊",
+				"pinyin": "wei fang",
+				"pinyin_prefix": "w",
+				"ext_id": "370700000000",
+				"ext_name": "潍坊市"
+			},
+			{
+				"id": "3708",
+				"pid": 37,
+				"deep": 1,
+				"name": "济宁",
+				"pinyin": "ji ning",
+				"pinyin_prefix": "j",
+				"ext_id": "370800000000",
+				"ext_name": "济宁市"
+			},
+			{
+				"id": "3709",
+				"pid": 37,
+				"deep": 1,
+				"name": "泰安",
+				"pinyin": "tai an",
+				"pinyin_prefix": "t",
+				"ext_id": "370900000000",
+				"ext_name": "泰安市"
+			},
+			{
+				"id": "3710",
+				"pid": 37,
+				"deep": 1,
+				"name": "威海",
+				"pinyin": "wei hai",
+				"pinyin_prefix": "w",
+				"ext_id": "371000000000",
+				"ext_name": "威海市"
+			},
+			{
+				"id": "3711",
+				"pid": 37,
+				"deep": 1,
+				"name": "日照",
+				"pinyin": "ri zhao",
+				"pinyin_prefix": "r",
+				"ext_id": "371100000000",
+				"ext_name": "日照市"
+			},
+			{
+				"id": "3713",
+				"pid": 37,
+				"deep": 1,
+				"name": "临沂",
+				"pinyin": "lin yi",
+				"pinyin_prefix": "l",
+				"ext_id": "371300000000",
+				"ext_name": "临沂市"
+			},
+			{
+				"id": "3714",
+				"pid": 37,
+				"deep": 1,
+				"name": "德州",
+				"pinyin": "de zhou",
+				"pinyin_prefix": "d",
+				"ext_id": "371400000000",
+				"ext_name": "德州市"
+			},
+			{
+				"id": "3715",
+				"pid": 37,
+				"deep": 1,
+				"name": "聊城",
+				"pinyin": "liao cheng",
+				"pinyin_prefix": "l",
+				"ext_id": "371500000000",
+				"ext_name": "聊城市"
+			},
+			{
+				"id": "3716",
+				"pid": 37,
+				"deep": 1,
+				"name": "滨州",
+				"pinyin": "bin zhou",
+				"pinyin_prefix": "b",
+				"ext_id": "371600000000",
+				"ext_name": "滨州市"
+			},
+			{
+				"id": "3717",
+				"pid": 37,
+				"deep": 1,
+				"name": "菏泽",
+				"pinyin": "he ze",
+				"pinyin_prefix": "h",
+				"ext_id": "371700000000",
+				"ext_name": "菏泽市"
+			}
+		]
+	},
+	{
+		"id": "41",
+		"pid": 0,
+		"deep": 0,
+		"name": "河南",
+		"pinyin": "he nan",
+		"pinyin_prefix": "h",
+		"ext_id": "410000000000",
+		"ext_name": "河南省",
+		"childs": [
+			{
+				"id": "4101",
+				"pid": 41,
+				"deep": 1,
+				"name": "郑州",
+				"pinyin": "zheng zhou",
+				"pinyin_prefix": "z",
+				"ext_id": "410100000000",
+				"ext_name": "郑州市"
+			},
+			{
+				"id": "4102",
+				"pid": 41,
+				"deep": 1,
+				"name": "开封",
+				"pinyin": "kai feng",
+				"pinyin_prefix": "k",
+				"ext_id": "410200000000",
+				"ext_name": "开封市"
+			},
+			{
+				"id": "4103",
+				"pid": 41,
+				"deep": 1,
+				"name": "洛阳",
+				"pinyin": "luo yang",
+				"pinyin_prefix": "l",
+				"ext_id": "410300000000",
+				"ext_name": "洛阳市"
+			},
+			{
+				"id": "4104",
+				"pid": 41,
+				"deep": 1,
+				"name": "平顶山",
+				"pinyin": "ping ding shan",
+				"pinyin_prefix": "p",
+				"ext_id": "410400000000",
+				"ext_name": "平顶山市"
+			},
+			{
+				"id": "4105",
+				"pid": 41,
+				"deep": 1,
+				"name": "安阳",
+				"pinyin": "an yang",
+				"pinyin_prefix": "a",
+				"ext_id": "410500000000",
+				"ext_name": "安阳市"
+			},
+			{
+				"id": "4106",
+				"pid": 41,
+				"deep": 1,
+				"name": "鹤壁",
+				"pinyin": "he bi",
+				"pinyin_prefix": "h",
+				"ext_id": "410600000000",
+				"ext_name": "鹤壁市"
+			},
+			{
+				"id": "4107",
+				"pid": 41,
+				"deep": 1,
+				"name": "新乡",
+				"pinyin": "xin xiang",
+				"pinyin_prefix": "x",
+				"ext_id": "410700000000",
+				"ext_name": "新乡市"
+			},
+			{
+				"id": "4108",
+				"pid": 41,
+				"deep": 1,
+				"name": "焦作",
+				"pinyin": "jiao zuo",
+				"pinyin_prefix": "j",
+				"ext_id": "410800000000",
+				"ext_name": "焦作市"
+			},
+			{
+				"id": "4109",
+				"pid": 41,
+				"deep": 1,
+				"name": "濮阳",
+				"pinyin": "pu yang",
+				"pinyin_prefix": "p",
+				"ext_id": "410900000000",
+				"ext_name": "濮阳市"
+			},
+			{
+				"id": "4110",
+				"pid": 41,
+				"deep": 1,
+				"name": "许昌",
+				"pinyin": "xu chang",
+				"pinyin_prefix": "x",
+				"ext_id": "411000000000",
+				"ext_name": "许昌市"
+			},
+			{
+				"id": "4111",
+				"pid": 41,
+				"deep": 1,
+				"name": "漯河",
+				"pinyin": "luo he",
+				"pinyin_prefix": "l",
+				"ext_id": "411100000000",
+				"ext_name": "漯河市"
+			},
+			{
+				"id": "4112",
+				"pid": 41,
+				"deep": 1,
+				"name": "三门峡",
+				"pinyin": "san men xia",
+				"pinyin_prefix": "s",
+				"ext_id": "411200000000",
+				"ext_name": "三门峡市"
+			},
+			{
+				"id": "4113",
+				"pid": 41,
+				"deep": 1,
+				"name": "南阳",
+				"pinyin": "nan yang",
+				"pinyin_prefix": "n",
+				"ext_id": "411300000000",
+				"ext_name": "南阳市"
+			},
+			{
+				"id": "4114",
+				"pid": 41,
+				"deep": 1,
+				"name": "商丘",
+				"pinyin": "shang qiu",
+				"pinyin_prefix": "s",
+				"ext_id": "411400000000",
+				"ext_name": "商丘市"
+			},
+			{
+				"id": "4115",
+				"pid": 41,
+				"deep": 1,
+				"name": "信阳",
+				"pinyin": "xin yang",
+				"pinyin_prefix": "x",
+				"ext_id": "411500000000",
+				"ext_name": "信阳市"
+			},
+			{
+				"id": "4116",
+				"pid": 41,
+				"deep": 1,
+				"name": "周口",
+				"pinyin": "zhou kou",
+				"pinyin_prefix": "z",
+				"ext_id": "411600000000",
+				"ext_name": "周口市"
+			},
+			{
+				"id": "4117",
+				"pid": 41,
+				"deep": 1,
+				"name": "驻马店",
+				"pinyin": "zhu ma dian",
+				"pinyin_prefix": "z",
+				"ext_id": "411700000000",
+				"ext_name": "驻马店市"
+			},
+			{
+				"id": "419001",
+				"pid": 41,
+				"deep": 1,
+				"name": "济源",
+				"pinyin": "ji yuan",
+				"pinyin_prefix": "j",
+				"ext_id": "419001000000",
+				"ext_name": "济源市"
+			}
+		]
+	},
+	{
+		"id": "42",
+		"pid": 0,
+		"deep": 0,
+		"name": "湖北",
+		"pinyin": "hu bei",
+		"pinyin_prefix": "h",
+		"ext_id": "420000000000",
+		"ext_name": "湖北省",
+		"childs": [
+			{
+				"id": "4201",
+				"pid": 42,
+				"deep": 1,
+				"name": "武汉",
+				"pinyin": "wu han",
+				"pinyin_prefix": "w",
+				"ext_id": "420100000000",
+				"ext_name": "武汉市"
+			},
+			{
+				"id": "4202",
+				"pid": 42,
+				"deep": 1,
+				"name": "黄石",
+				"pinyin": "huang shi",
+				"pinyin_prefix": "h",
+				"ext_id": "420200000000",
+				"ext_name": "黄石市"
+			},
+			{
+				"id": "4203",
+				"pid": 42,
+				"deep": 1,
+				"name": "十堰",
+				"pinyin": "shi yan",
+				"pinyin_prefix": "s",
+				"ext_id": "420300000000",
+				"ext_name": "十堰市"
+			},
+			{
+				"id": "4205",
+				"pid": 42,
+				"deep": 1,
+				"name": "宜昌",
+				"pinyin": "yi chang",
+				"pinyin_prefix": "y",
+				"ext_id": "420500000000",
+				"ext_name": "宜昌市"
+			},
+			{
+				"id": "4206",
+				"pid": 42,
+				"deep": 1,
+				"name": "襄阳",
+				"pinyin": "xiang yang",
+				"pinyin_prefix": "x",
+				"ext_id": "420600000000",
+				"ext_name": "襄阳市"
+			},
+			{
+				"id": "4207",
+				"pid": 42,
+				"deep": 1,
+				"name": "鄂州",
+				"pinyin": "e zhou",
+				"pinyin_prefix": "e",
+				"ext_id": "420700000000",
+				"ext_name": "鄂州市"
+			},
+			{
+				"id": "4208",
+				"pid": 42,
+				"deep": 1,
+				"name": "荆门",
+				"pinyin": "jing men",
+				"pinyin_prefix": "j",
+				"ext_id": "420800000000",
+				"ext_name": "荆门市"
+			},
+			{
+				"id": "4209",
+				"pid": 42,
+				"deep": 1,
+				"name": "孝感",
+				"pinyin": "xiao gan",
+				"pinyin_prefix": "x",
+				"ext_id": "420900000000",
+				"ext_name": "孝感市"
+			},
+			{
+				"id": "4210",
+				"pid": 42,
+				"deep": 1,
+				"name": "荆州",
+				"pinyin": "jing zhou",
+				"pinyin_prefix": "j",
+				"ext_id": "421000000000",
+				"ext_name": "荆州市"
+			},
+			{
+				"id": "4211",
+				"pid": 42,
+				"deep": 1,
+				"name": "黄冈",
+				"pinyin": "huang gang",
+				"pinyin_prefix": "h",
+				"ext_id": "421100000000",
+				"ext_name": "黄冈市"
+			},
+			{
+				"id": "4212",
+				"pid": 42,
+				"deep": 1,
+				"name": "咸宁",
+				"pinyin": "xian ning",
+				"pinyin_prefix": "x",
+				"ext_id": "421200000000",
+				"ext_name": "咸宁市"
+			},
+			{
+				"id": "4213",
+				"pid": 42,
+				"deep": 1,
+				"name": "随州",
+				"pinyin": "sui zhou",
+				"pinyin_prefix": "s",
+				"ext_id": "421300000000",
+				"ext_name": "随州市"
+			},
+			{
+				"id": "4228",
+				"pid": 42,
+				"deep": 1,
+				"name": "恩施",
+				"pinyin": "en shi",
+				"pinyin_prefix": "e",
+				"ext_id": "422800000000",
+				"ext_name": "恩施土家族苗族自治州"
+			},
+			{
+				"id": "429004",
+				"pid": 42,
+				"deep": 1,
+				"name": "仙桃",
+				"pinyin": "xian tao",
+				"pinyin_prefix": "x",
+				"ext_id": "429004000000",
+				"ext_name": "仙桃市"
+			},
+			{
+				"id": "429005",
+				"pid": 42,
+				"deep": 1,
+				"name": "潜江",
+				"pinyin": "qian jiang",
+				"pinyin_prefix": "q",
+				"ext_id": "429005000000",
+				"ext_name": "潜江市"
+			},
+			{
+				"id": "429006",
+				"pid": 42,
+				"deep": 1,
+				"name": "天门",
+				"pinyin": "tian men",
+				"pinyin_prefix": "t",
+				"ext_id": "429006000000",
+				"ext_name": "天门市"
+			},
+			{
+				"id": "429021",
+				"pid": 42,
+				"deep": 1,
+				"name": "神农架",
+				"pinyin": "shen nong jia",
+				"pinyin_prefix": "s",
+				"ext_id": "429021000000",
+				"ext_name": "神农架林区"
+			}
+		]
+	},
+	{
+		"id": "43",
+		"pid": 0,
+		"deep": 0,
+		"name": "湖南",
+		"pinyin": "hu nan",
+		"pinyin_prefix": "h",
+		"ext_id": "430000000000",
+		"ext_name": "湖南省",
+		"childs": [
+			{
+				"id": "4301",
+				"pid": 43,
+				"deep": 1,
+				"name": "长沙",
+				"pinyin": "chang sha",
+				"pinyin_prefix": "c",
+				"ext_id": "430100000000",
+				"ext_name": "长沙市"
+			},
+			{
+				"id": "4302",
+				"pid": 43,
+				"deep": 1,
+				"name": "株洲",
+				"pinyin": "zhu zhou",
+				"pinyin_prefix": "z",
+				"ext_id": "430200000000",
+				"ext_name": "株洲市"
+			},
+			{
+				"id": "4303",
+				"pid": 43,
+				"deep": 1,
+				"name": "湘潭",
+				"pinyin": "xiang tan",
+				"pinyin_prefix": "x",
+				"ext_id": "430300000000",
+				"ext_name": "湘潭市"
+			},
+			{
+				"id": "4304",
+				"pid": 43,
+				"deep": 1,
+				"name": "衡阳",
+				"pinyin": "heng yang",
+				"pinyin_prefix": "h",
+				"ext_id": "430400000000",
+				"ext_name": "衡阳市"
+			},
+			{
+				"id": "4305",
+				"pid": 43,
+				"deep": 1,
+				"name": "邵阳",
+				"pinyin": "shao yang",
+				"pinyin_prefix": "s",
+				"ext_id": "430500000000",
+				"ext_name": "邵阳市"
+			},
+			{
+				"id": "4306",
+				"pid": 43,
+				"deep": 1,
+				"name": "岳阳",
+				"pinyin": "yue yang",
+				"pinyin_prefix": "y",
+				"ext_id": "430600000000",
+				"ext_name": "岳阳市"
+			},
+			{
+				"id": "4307",
+				"pid": 43,
+				"deep": 1,
+				"name": "常德",
+				"pinyin": "chang de",
+				"pinyin_prefix": "c",
+				"ext_id": "430700000000",
+				"ext_name": "常德市"
+			},
+			{
+				"id": "4308",
+				"pid": 43,
+				"deep": 1,
+				"name": "张家界",
+				"pinyin": "zhang jia jie",
+				"pinyin_prefix": "z",
+				"ext_id": "430800000000",
+				"ext_name": "张家界市"
+			},
+			{
+				"id": "4309",
+				"pid": 43,
+				"deep": 1,
+				"name": "益阳",
+				"pinyin": "yi yang",
+				"pinyin_prefix": "y",
+				"ext_id": "430900000000",
+				"ext_name": "益阳市"
+			},
+			{
+				"id": "4310",
+				"pid": 43,
+				"deep": 1,
+				"name": "郴州",
+				"pinyin": "chen zhou",
+				"pinyin_prefix": "c",
+				"ext_id": "431000000000",
+				"ext_name": "郴州市"
+			},
+			{
+				"id": "4311",
+				"pid": 43,
+				"deep": 1,
+				"name": "永州",
+				"pinyin": "yong zhou",
+				"pinyin_prefix": "y",
+				"ext_id": "431100000000",
+				"ext_name": "永州市"
+			},
+			{
+				"id": "4312",
+				"pid": 43,
+				"deep": 1,
+				"name": "怀化",
+				"pinyin": "huai hua",
+				"pinyin_prefix": "h",
+				"ext_id": "431200000000",
+				"ext_name": "怀化市"
+			},
+			{
+				"id": "4313",
+				"pid": 43,
+				"deep": 1,
+				"name": "娄底",
+				"pinyin": "lou di",
+				"pinyin_prefix": "l",
+				"ext_id": "431300000000",
+				"ext_name": "娄底市"
+			},
+			{
+				"id": "4331",
+				"pid": 43,
+				"deep": 1,
+				"name": "湘西",
+				"pinyin": "xiang xi",
+				"pinyin_prefix": "x",
+				"ext_id": "433100000000",
+				"ext_name": "湘西土家族苗族自治州"
+			}
+		]
+	},
+	{
+		"id": "44",
+		"pid": 0,
+		"deep": 0,
+		"name": "广东",
+		"pinyin": "guang dong",
+		"pinyin_prefix": "g",
+		"ext_id": "440000000000",
+		"ext_name": "广东省",
+		"childs": [
+			{
+				"id": "4401",
+				"pid": 44,
+				"deep": 1,
+				"name": "广州",
+				"pinyin": "guang zhou",
+				"pinyin_prefix": "g",
+				"ext_id": "440100000000",
+				"ext_name": "广州市"
+			},
+			{
+				"id": "4402",
+				"pid": 44,
+				"deep": 1,
+				"name": "韶关",
+				"pinyin": "shao guan",
+				"pinyin_prefix": "s",
+				"ext_id": "440200000000",
+				"ext_name": "韶关市"
+			},
+			{
+				"id": "4403",
+				"pid": 44,
+				"deep": 1,
+				"name": "深圳",
+				"pinyin": "shen zhen",
+				"pinyin_prefix": "s",
+				"ext_id": "440300000000",
+				"ext_name": "深圳市"
+			},
+			{
+				"id": "4404",
+				"pid": 44,
+				"deep": 1,
+				"name": "珠海",
+				"pinyin": "zhu hai",
+				"pinyin_prefix": "z",
+				"ext_id": "440400000000",
+				"ext_name": "珠海市"
+			},
+			{
+				"id": "4405",
+				"pid": 44,
+				"deep": 1,
+				"name": "汕头",
+				"pinyin": "shan tou",
+				"pinyin_prefix": "s",
+				"ext_id": "440500000000",
+				"ext_name": "汕头市"
+			},
+			{
+				"id": "4406",
+				"pid": 44,
+				"deep": 1,
+				"name": "佛山",
+				"pinyin": "fo shan",
+				"pinyin_prefix": "f",
+				"ext_id": "440600000000",
+				"ext_name": "佛山市"
+			},
+			{
+				"id": "4407",
+				"pid": 44,
+				"deep": 1,
+				"name": "江门",
+				"pinyin": "jiang men",
+				"pinyin_prefix": "j",
+				"ext_id": "440700000000",
+				"ext_name": "江门市"
+			},
+			{
+				"id": "4408",
+				"pid": 44,
+				"deep": 1,
+				"name": "湛江",
+				"pinyin": "zhan jiang",
+				"pinyin_prefix": "z",
+				"ext_id": "440800000000",
+				"ext_name": "湛江市"
+			},
+			{
+				"id": "4409",
+				"pid": 44,
+				"deep": 1,
+				"name": "茂名",
+				"pinyin": "mao ming",
+				"pinyin_prefix": "m",
+				"ext_id": "440900000000",
+				"ext_name": "茂名市"
+			},
+			{
+				"id": "4412",
+				"pid": 44,
+				"deep": 1,
+				"name": "肇庆",
+				"pinyin": "zhao qing",
+				"pinyin_prefix": "z",
+				"ext_id": "441200000000",
+				"ext_name": "肇庆市"
+			},
+			{
+				"id": "4413",
+				"pid": 44,
+				"deep": 1,
+				"name": "惠州",
+				"pinyin": "hui zhou",
+				"pinyin_prefix": "h",
+				"ext_id": "441300000000",
+				"ext_name": "惠州市"
+			},
+			{
+				"id": "4414",
+				"pid": 44,
+				"deep": 1,
+				"name": "梅州",
+				"pinyin": "mei zhou",
+				"pinyin_prefix": "m",
+				"ext_id": "441400000000",
+				"ext_name": "梅州市"
+			},
+			{
+				"id": "4415",
+				"pid": 44,
+				"deep": 1,
+				"name": "汕尾",
+				"pinyin": "shan wei",
+				"pinyin_prefix": "s",
+				"ext_id": "441500000000",
+				"ext_name": "汕尾市"
+			},
+			{
+				"id": "4416",
+				"pid": 44,
+				"deep": 1,
+				"name": "河源",
+				"pinyin": "he yuan",
+				"pinyin_prefix": "h",
+				"ext_id": "441600000000",
+				"ext_name": "河源市"
+			},
+			{
+				"id": "4417",
+				"pid": 44,
+				"deep": 1,
+				"name": "阳江",
+				"pinyin": "yang jiang",
+				"pinyin_prefix": "y",
+				"ext_id": "441700000000",
+				"ext_name": "阳江市"
+			},
+			{
+				"id": "4418",
+				"pid": 44,
+				"deep": 1,
+				"name": "清远",
+				"pinyin": "qing yuan",
+				"pinyin_prefix": "q",
+				"ext_id": "441800000000",
+				"ext_name": "清远市"
+			},
+			{
+				"id": "4419",
+				"pid": 44,
+				"deep": 1,
+				"name": "东莞",
+				"pinyin": "dong guan",
+				"pinyin_prefix": "d",
+				"ext_id": "441900000000",
+				"ext_name": "东莞市"
+			},
+			{
+				"id": "4420",
+				"pid": 44,
+				"deep": 1,
+				"name": "中山",
+				"pinyin": "zhong shan",
+				"pinyin_prefix": "z",
+				"ext_id": "442000000000",
+				"ext_name": "中山市"
+			},
+			{
+				"id": "4451",
+				"pid": 44,
+				"deep": 1,
+				"name": "潮州",
+				"pinyin": "chao zhou",
+				"pinyin_prefix": "c",
+				"ext_id": "445100000000",
+				"ext_name": "潮州市"
+			},
+			{
+				"id": "4452",
+				"pid": 44,
+				"deep": 1,
+				"name": "揭阳",
+				"pinyin": "jie yang",
+				"pinyin_prefix": "j",
+				"ext_id": "445200000000",
+				"ext_name": "揭阳市"
+			},
+			{
+				"id": "4453",
+				"pid": 44,
+				"deep": 1,
+				"name": "云浮",
+				"pinyin": "yun fu",
+				"pinyin_prefix": "y",
+				"ext_id": "445300000000",
+				"ext_name": "云浮市"
+			}
+		]
+	},
+	{
+		"id": "45",
+		"pid": 0,
+		"deep": 0,
+		"name": "广西",
+		"pinyin": "guang xi",
+		"pinyin_prefix": "g",
+		"ext_id": "450000000000",
+		"ext_name": "广西壮族自治区",
+		"childs": [
+			{
+				"id": "4501",
+				"pid": 45,
+				"deep": 1,
+				"name": "南宁",
+				"pinyin": "nan ning",
+				"pinyin_prefix": "n",
+				"ext_id": "450100000000",
+				"ext_name": "南宁市"
+			},
+			{
+				"id": "4502",
+				"pid": 45,
+				"deep": 1,
+				"name": "柳州",
+				"pinyin": "liu zhou",
+				"pinyin_prefix": "l",
+				"ext_id": "450200000000",
+				"ext_name": "柳州市"
+			},
+			{
+				"id": "4503",
+				"pid": 45,
+				"deep": 1,
+				"name": "桂林",
+				"pinyin": "gui lin",
+				"pinyin_prefix": "g",
+				"ext_id": "450300000000",
+				"ext_name": "桂林市"
+			},
+			{
+				"id": "4504",
+				"pid": 45,
+				"deep": 1,
+				"name": "梧州",
+				"pinyin": "wu zhou",
+				"pinyin_prefix": "w",
+				"ext_id": "450400000000",
+				"ext_name": "梧州市"
+			},
+			{
+				"id": "4505",
+				"pid": 45,
+				"deep": 1,
+				"name": "北海",
+				"pinyin": "bei hai",
+				"pinyin_prefix": "b",
+				"ext_id": "450500000000",
+				"ext_name": "北海市"
+			},
+			{
+				"id": "4506",
+				"pid": 45,
+				"deep": 1,
+				"name": "防城港",
+				"pinyin": "fang cheng gang",
+				"pinyin_prefix": "f",
+				"ext_id": "450600000000",
+				"ext_name": "防城港市"
+			},
+			{
+				"id": "4507",
+				"pid": 45,
+				"deep": 1,
+				"name": "钦州",
+				"pinyin": "qin zhou",
+				"pinyin_prefix": "q",
+				"ext_id": "450700000000",
+				"ext_name": "钦州市"
+			},
+			{
+				"id": "4508",
+				"pid": 45,
+				"deep": 1,
+				"name": "贵港",
+				"pinyin": "gui gang",
+				"pinyin_prefix": "g",
+				"ext_id": "450800000000",
+				"ext_name": "贵港市"
+			},
+			{
+				"id": "4509",
+				"pid": 45,
+				"deep": 1,
+				"name": "玉林",
+				"pinyin": "yu lin",
+				"pinyin_prefix": "y",
+				"ext_id": "450900000000",
+				"ext_name": "玉林市"
+			},
+			{
+				"id": "4510",
+				"pid": 45,
+				"deep": 1,
+				"name": "百色",
+				"pinyin": "bai se",
+				"pinyin_prefix": "b",
+				"ext_id": "451000000000",
+				"ext_name": "百色市"
+			},
+			{
+				"id": "4511",
+				"pid": 45,
+				"deep": 1,
+				"name": "贺州",
+				"pinyin": "he zhou",
+				"pinyin_prefix": "h",
+				"ext_id": "451100000000",
+				"ext_name": "贺州市"
+			},
+			{
+				"id": "4512",
+				"pid": 45,
+				"deep": 1,
+				"name": "河池",
+				"pinyin": "he chi",
+				"pinyin_prefix": "h",
+				"ext_id": "451200000000",
+				"ext_name": "河池市"
+			},
+			{
+				"id": "4513",
+				"pid": 45,
+				"deep": 1,
+				"name": "来宾",
+				"pinyin": "lai bin",
+				"pinyin_prefix": "l",
+				"ext_id": "451300000000",
+				"ext_name": "来宾市"
+			},
+			{
+				"id": "4514",
+				"pid": 45,
+				"deep": 1,
+				"name": "崇左",
+				"pinyin": "chong zuo",
+				"pinyin_prefix": "c",
+				"ext_id": "451400000000",
+				"ext_name": "崇左市"
+			}
+		]
+	},
+	{
+		"id": "46",
+		"pid": 0,
+		"deep": 0,
+		"name": "海南",
+		"pinyin": "hai nan",
+		"pinyin_prefix": "h",
+		"ext_id": "460000000000",
+		"ext_name": "海南省",
+		"childs": [
+			{
+				"id": "4601",
+				"pid": 46,
+				"deep": 1,
+				"name": "海口",
+				"pinyin": "hai kou",
+				"pinyin_prefix": "h",
+				"ext_id": "460100000000",
+				"ext_name": "海口市"
+			},
+			{
+				"id": "4602",
+				"pid": 46,
+				"deep": 1,
+				"name": "三亚",
+				"pinyin": "san ya",
+				"pinyin_prefix": "s",
+				"ext_id": "460200000000",
+				"ext_name": "三亚市"
+			},
+			{
+				"id": "4603",
+				"pid": 46,
+				"deep": 1,
+				"name": "三沙",
+				"pinyin": "san sha",
+				"pinyin_prefix": "s",
+				"ext_id": "460300000000",
+				"ext_name": "三沙市"
+			},
+			{
+				"id": "4604",
+				"pid": 46,
+				"deep": 1,
+				"name": "儋州",
+				"pinyin": "dan zhou",
+				"pinyin_prefix": "d",
+				"ext_id": "460400000000",
+				"ext_name": "儋州市"
+			},
+			{
+				"id": "469001",
+				"pid": 46,
+				"deep": 1,
+				"name": "五指山",
+				"pinyin": "wu zhi shan",
+				"pinyin_prefix": "w",
+				"ext_id": "469001000000",
+				"ext_name": "五指山市"
+			},
+			{
+				"id": "469002",
+				"pid": 46,
+				"deep": 1,
+				"name": "琼海",
+				"pinyin": "qiong hai",
+				"pinyin_prefix": "q",
+				"ext_id": "469002000000",
+				"ext_name": "琼海市"
+			},
+			{
+				"id": "469005",
+				"pid": 46,
+				"deep": 1,
+				"name": "文昌",
+				"pinyin": "wen chang",
+				"pinyin_prefix": "w",
+				"ext_id": "469005000000",
+				"ext_name": "文昌市"
+			},
+			{
+				"id": "469006",
+				"pid": 46,
+				"deep": 1,
+				"name": "万宁",
+				"pinyin": "wan ning",
+				"pinyin_prefix": "w",
+				"ext_id": "469006000000",
+				"ext_name": "万宁市"
+			},
+			{
+				"id": "469007",
+				"pid": 46,
+				"deep": 1,
+				"name": "东方",
+				"pinyin": "dong fang",
+				"pinyin_prefix": "d",
+				"ext_id": "469007000000",
+				"ext_name": "东方市"
+			},
+			{
+				"id": "469021",
+				"pid": 46,
+				"deep": 1,
+				"name": "定安",
+				"pinyin": "ding an",
+				"pinyin_prefix": "d",
+				"ext_id": "469021000000",
+				"ext_name": "定安县"
+			},
+			{
+				"id": "469022",
+				"pid": 46,
+				"deep": 1,
+				"name": "屯昌",
+				"pinyin": "tun chang",
+				"pinyin_prefix": "t",
+				"ext_id": "469022000000",
+				"ext_name": "屯昌县"
+			},
+			{
+				"id": "469023",
+				"pid": 46,
+				"deep": 1,
+				"name": "澄迈",
+				"pinyin": "cheng mai",
+				"pinyin_prefix": "c",
+				"ext_id": "469023000000",
+				"ext_name": "澄迈县"
+			},
+			{
+				"id": "469024",
+				"pid": 46,
+				"deep": 1,
+				"name": "临高",
+				"pinyin": "lin gao",
+				"pinyin_prefix": "l",
+				"ext_id": "469024000000",
+				"ext_name": "临高县"
+			},
+			{
+				"id": "469025",
+				"pid": 46,
+				"deep": 1,
+				"name": "白沙",
+				"pinyin": "bai sha",
+				"pinyin_prefix": "b",
+				"ext_id": "469025000000",
+				"ext_name": "白沙黎族自治县"
+			},
+			{
+				"id": "469026",
+				"pid": 46,
+				"deep": 1,
+				"name": "昌江",
+				"pinyin": "chang jiang",
+				"pinyin_prefix": "c",
+				"ext_id": "469026000000",
+				"ext_name": "昌江黎族自治县"
+			},
+			{
+				"id": "469027",
+				"pid": 46,
+				"deep": 1,
+				"name": "乐东",
+				"pinyin": "le dong",
+				"pinyin_prefix": "l",
+				"ext_id": "469027000000",
+				"ext_name": "乐东黎族自治县"
+			},
+			{
+				"id": "469028",
+				"pid": 46,
+				"deep": 1,
+				"name": "陵水",
+				"pinyin": "ling shui",
+				"pinyin_prefix": "l",
+				"ext_id": "469028000000",
+				"ext_name": "陵水黎族自治县"
+			},
+			{
+				"id": "469029",
+				"pid": 46,
+				"deep": 1,
+				"name": "保亭",
+				"pinyin": "bao ting",
+				"pinyin_prefix": "b",
+				"ext_id": "469029000000",
+				"ext_name": "保亭黎族苗族自治县"
+			},
+			{
+				"id": "469030",
+				"pid": 46,
+				"deep": 1,
+				"name": "琼中",
+				"pinyin": "qiong zhong",
+				"pinyin_prefix": "q",
+				"ext_id": "469030000000",
+				"ext_name": "琼中黎族苗族自治县"
+			}
+		]
+	},
+	{
+		"id": "50",
+		"pid": 0,
+		"deep": 0,
+		"name": "重庆",
+		"pinyin": "chong qing",
+		"pinyin_prefix": "c",
+		"ext_id": "500000000000",
+		"ext_name": "重庆市",
+		"childs": [
+			{
+				"id": "5001",
+				"pid": 50,
+				"deep": 1,
+				"name": "重庆城区",
+				"pinyin": "chong qing cheng qu",
+				"pinyin_prefix": "c",
+				"ext_id": "500100000000",
+				"ext_name": "重庆城区"
+			},
+			{
+				"id": "5002",
+				"pid": 50,
+				"deep": 1,
+				"name": "重庆郊县",
+				"pinyin": "chong qing jiao xian",
+				"pinyin_prefix": "c",
+				"ext_id": "500200000000",
+				"ext_name": "重庆郊县"
+			}
+		]
+	},
+	{
+		"id": "51",
+		"pid": 0,
+		"deep": 0,
+		"name": "四川",
+		"pinyin": "si chuan",
+		"pinyin_prefix": "s",
+		"ext_id": "510000000000",
+		"ext_name": "四川省",
+		"childs": [
+			{
+				"id": "5101",
+				"pid": 51,
+				"deep": 1,
+				"name": "成都",
+				"pinyin": "cheng du",
+				"pinyin_prefix": "c",
+				"ext_id": "510100000000",
+				"ext_name": "成都市"
+			},
+			{
+				"id": "5103",
+				"pid": 51,
+				"deep": 1,
+				"name": "自贡",
+				"pinyin": "zi gong",
+				"pinyin_prefix": "z",
+				"ext_id": "510300000000",
+				"ext_name": "自贡市"
+			},
+			{
+				"id": "5104",
+				"pid": 51,
+				"deep": 1,
+				"name": "攀枝花",
+				"pinyin": "pan zhi hua",
+				"pinyin_prefix": "p",
+				"ext_id": "510400000000",
+				"ext_name": "攀枝花市"
+			},
+			{
+				"id": "5105",
+				"pid": 51,
+				"deep": 1,
+				"name": "泸州",
+				"pinyin": "lu zhou",
+				"pinyin_prefix": "l",
+				"ext_id": "510500000000",
+				"ext_name": "泸州市"
+			},
+			{
+				"id": "5106",
+				"pid": 51,
+				"deep": 1,
+				"name": "德阳",
+				"pinyin": "de yang",
+				"pinyin_prefix": "d",
+				"ext_id": "510600000000",
+				"ext_name": "德阳市"
+			},
+			{
+				"id": "5107",
+				"pid": 51,
+				"deep": 1,
+				"name": "绵阳",
+				"pinyin": "mian yang",
+				"pinyin_prefix": "m",
+				"ext_id": "510700000000",
+				"ext_name": "绵阳市"
+			},
+			{
+				"id": "5108",
+				"pid": 51,
+				"deep": 1,
+				"name": "广元",
+				"pinyin": "guang yuan",
+				"pinyin_prefix": "g",
+				"ext_id": "510800000000",
+				"ext_name": "广元市"
+			},
+			{
+				"id": "5109",
+				"pid": 51,
+				"deep": 1,
+				"name": "遂宁",
+				"pinyin": "sui ning",
+				"pinyin_prefix": "s",
+				"ext_id": "510900000000",
+				"ext_name": "遂宁市"
+			},
+			{
+				"id": "5110",
+				"pid": 51,
+				"deep": 1,
+				"name": "内江",
+				"pinyin": "nei jiang",
+				"pinyin_prefix": "n",
+				"ext_id": "511000000000",
+				"ext_name": "内江市"
+			},
+			{
+				"id": "5111",
+				"pid": 51,
+				"deep": 1,
+				"name": "乐山",
+				"pinyin": "le shan",
+				"pinyin_prefix": "l",
+				"ext_id": "511100000000",
+				"ext_name": "乐山市"
+			},
+			{
+				"id": "5113",
+				"pid": 51,
+				"deep": 1,
+				"name": "南充",
+				"pinyin": "nan chong",
+				"pinyin_prefix": "n",
+				"ext_id": "511300000000",
+				"ext_name": "南充市"
+			},
+			{
+				"id": "5114",
+				"pid": 51,
+				"deep": 1,
+				"name": "眉山",
+				"pinyin": "mei shan",
+				"pinyin_prefix": "m",
+				"ext_id": "511400000000",
+				"ext_name": "眉山市"
+			},
+			{
+				"id": "5115",
+				"pid": 51,
+				"deep": 1,
+				"name": "宜宾",
+				"pinyin": "yi bin",
+				"pinyin_prefix": "y",
+				"ext_id": "511500000000",
+				"ext_name": "宜宾市"
+			},
+			{
+				"id": "5116",
+				"pid": 51,
+				"deep": 1,
+				"name": "广安",
+				"pinyin": "guang an",
+				"pinyin_prefix": "g",
+				"ext_id": "511600000000",
+				"ext_name": "广安市"
+			},
+			{
+				"id": "5117",
+				"pid": 51,
+				"deep": 1,
+				"name": "达州",
+				"pinyin": "da zhou",
+				"pinyin_prefix": "d",
+				"ext_id": "511700000000",
+				"ext_name": "达州市"
+			},
+			{
+				"id": "5118",
+				"pid": 51,
+				"deep": 1,
+				"name": "雅安",
+				"pinyin": "ya an",
+				"pinyin_prefix": "y",
+				"ext_id": "511800000000",
+				"ext_name": "雅安市"
+			},
+			{
+				"id": "5119",
+				"pid": 51,
+				"deep": 1,
+				"name": "巴中",
+				"pinyin": "ba zhong",
+				"pinyin_prefix": "b",
+				"ext_id": "511900000000",
+				"ext_name": "巴中市"
+			},
+			{
+				"id": "5120",
+				"pid": 51,
+				"deep": 1,
+				"name": "资阳",
+				"pinyin": "zi yang",
+				"pinyin_prefix": "z",
+				"ext_id": "512000000000",
+				"ext_name": "资阳市"
+			},
+			{
+				"id": "5132",
+				"pid": 51,
+				"deep": 1,
+				"name": "阿坝",
+				"pinyin": "a ba",
+				"pinyin_prefix": "a",
+				"ext_id": "513200000000",
+				"ext_name": "阿坝藏族羌族自治州"
+			},
+			{
+				"id": "5133",
+				"pid": 51,
+				"deep": 1,
+				"name": "甘孜",
+				"pinyin": "gan zi",
+				"pinyin_prefix": "g",
+				"ext_id": "513300000000",
+				"ext_name": "甘孜藏族自治州"
+			},
+			{
+				"id": "5134",
+				"pid": 51,
+				"deep": 1,
+				"name": "凉山",
+				"pinyin": "liang shan",
+				"pinyin_prefix": "l",
+				"ext_id": "513400000000",
+				"ext_name": "凉山彝族自治州"
+			}
+		]
+	},
+	{
+		"id": "52",
+		"pid": 0,
+		"deep": 0,
+		"name": "贵州",
+		"pinyin": "gui zhou",
+		"pinyin_prefix": "g",
+		"ext_id": "520000000000",
+		"ext_name": "贵州省",
+		"childs": [
+			{
+				"id": "5201",
+				"pid": 52,
+				"deep": 1,
+				"name": "贵阳",
+				"pinyin": "gui yang",
+				"pinyin_prefix": "g",
+				"ext_id": "520100000000",
+				"ext_name": "贵阳市"
+			},
+			{
+				"id": "5202",
+				"pid": 52,
+				"deep": 1,
+				"name": "六盘水",
+				"pinyin": "liu pan shui",
+				"pinyin_prefix": "l",
+				"ext_id": "520200000000",
+				"ext_name": "六盘水市"
+			},
+			{
+				"id": "5203",
+				"pid": 52,
+				"deep": 1,
+				"name": "遵义",
+				"pinyin": "zun yi",
+				"pinyin_prefix": "z",
+				"ext_id": "520300000000",
+				"ext_name": "遵义市"
+			},
+			{
+				"id": "5204",
+				"pid": 52,
+				"deep": 1,
+				"name": "安顺",
+				"pinyin": "an shun",
+				"pinyin_prefix": "a",
+				"ext_id": "520400000000",
+				"ext_name": "安顺市"
+			},
+			{
+				"id": "5205",
+				"pid": 52,
+				"deep": 1,
+				"name": "毕节",
+				"pinyin": "bi jie",
+				"pinyin_prefix": "b",
+				"ext_id": "520500000000",
+				"ext_name": "毕节市"
+			},
+			{
+				"id": "5206",
+				"pid": 52,
+				"deep": 1,
+				"name": "铜仁",
+				"pinyin": "tong ren",
+				"pinyin_prefix": "t",
+				"ext_id": "520600000000",
+				"ext_name": "铜仁市"
+			},
+			{
+				"id": "5223",
+				"pid": 52,
+				"deep": 1,
+				"name": "黔西南",
+				"pinyin": "qian xi nan",
+				"pinyin_prefix": "q",
+				"ext_id": "522300000000",
+				"ext_name": "黔西南布依族苗族自治州"
+			},
+			{
+				"id": "5226",
+				"pid": 52,
+				"deep": 1,
+				"name": "黔东南",
+				"pinyin": "qian dong nan",
+				"pinyin_prefix": "q",
+				"ext_id": "522600000000",
+				"ext_name": "黔东南苗族侗族自治州"
+			},
+			{
+				"id": "5227",
+				"pid": 52,
+				"deep": 1,
+				"name": "黔南",
+				"pinyin": "qian nan",
+				"pinyin_prefix": "q",
+				"ext_id": "522700000000",
+				"ext_name": "黔南布依族苗族自治州"
+			}
+		]
+	},
+	{
+		"id": "53",
+		"pid": 0,
+		"deep": 0,
+		"name": "云南",
+		"pinyin": "yun nan",
+		"pinyin_prefix": "y",
+		"ext_id": "530000000000",
+		"ext_name": "云南省",
+		"childs": [
+			{
+				"id": "5301",
+				"pid": 53,
+				"deep": 1,
+				"name": "昆明",
+				"pinyin": "kun ming",
+				"pinyin_prefix": "k",
+				"ext_id": "530100000000",
+				"ext_name": "昆明市"
+			},
+			{
+				"id": "5303",
+				"pid": 53,
+				"deep": 1,
+				"name": "曲靖",
+				"pinyin": "qu jing",
+				"pinyin_prefix": "q",
+				"ext_id": "530300000000",
+				"ext_name": "曲靖市"
+			},
+			{
+				"id": "5304",
+				"pid": 53,
+				"deep": 1,
+				"name": "玉溪",
+				"pinyin": "yu xi",
+				"pinyin_prefix": "y",
+				"ext_id": "530400000000",
+				"ext_name": "玉溪市"
+			},
+			{
+				"id": "5305",
+				"pid": 53,
+				"deep": 1,
+				"name": "保山",
+				"pinyin": "bao shan",
+				"pinyin_prefix": "b",
+				"ext_id": "530500000000",
+				"ext_name": "保山市"
+			},
+			{
+				"id": "5306",
+				"pid": 53,
+				"deep": 1,
+				"name": "昭通",
+				"pinyin": "zhao tong",
+				"pinyin_prefix": "z",
+				"ext_id": "530600000000",
+				"ext_name": "昭通市"
+			},
+			{
+				"id": "5307",
+				"pid": 53,
+				"deep": 1,
+				"name": "丽江",
+				"pinyin": "li jiang",
+				"pinyin_prefix": "l",
+				"ext_id": "530700000000",
+				"ext_name": "丽江市"
+			},
+			{
+				"id": "5308",
+				"pid": 53,
+				"deep": 1,
+				"name": "普洱",
+				"pinyin": "pu er",
+				"pinyin_prefix": "p",
+				"ext_id": "530800000000",
+				"ext_name": "普洱市"
+			},
+			{
+				"id": "5309",
+				"pid": 53,
+				"deep": 1,
+				"name": "临沧",
+				"pinyin": "lin cang",
+				"pinyin_prefix": "l",
+				"ext_id": "530900000000",
+				"ext_name": "临沧市"
+			},
+			{
+				"id": "5323",
+				"pid": 53,
+				"deep": 1,
+				"name": "楚雄",
+				"pinyin": "chu xiong",
+				"pinyin_prefix": "c",
+				"ext_id": "532300000000",
+				"ext_name": "楚雄彝族自治州"
+			},
+			{
+				"id": "5325",
+				"pid": 53,
+				"deep": 1,
+				"name": "红河",
+				"pinyin": "hong he",
+				"pinyin_prefix": "h",
+				"ext_id": "532500000000",
+				"ext_name": "红河哈尼族彝族自治州"
+			},
+			{
+				"id": "5326",
+				"pid": 53,
+				"deep": 1,
+				"name": "文山",
+				"pinyin": "wen shan",
+				"pinyin_prefix": "w",
+				"ext_id": "532600000000",
+				"ext_name": "文山壮族苗族自治州"
+			},
+			{
+				"id": "5328",
+				"pid": 53,
+				"deep": 1,
+				"name": "西双版纳",
+				"pinyin": "xi shuang ban na",
+				"pinyin_prefix": "x",
+				"ext_id": "532800000000",
+				"ext_name": "西双版纳傣族自治州"
+			},
+			{
+				"id": "5329",
+				"pid": 53,
+				"deep": 1,
+				"name": "大理",
+				"pinyin": "da li",
+				"pinyin_prefix": "d",
+				"ext_id": "532900000000",
+				"ext_name": "大理白族自治州"
+			},
+			{
+				"id": "5331",
+				"pid": 53,
+				"deep": 1,
+				"name": "德宏",
+				"pinyin": "de hong",
+				"pinyin_prefix": "d",
+				"ext_id": "533100000000",
+				"ext_name": "德宏傣族景颇族自治州"
+			},
+			{
+				"id": "5333",
+				"pid": 53,
+				"deep": 1,
+				"name": "怒江",
+				"pinyin": "nu jiang",
+				"pinyin_prefix": "n",
+				"ext_id": "533300000000",
+				"ext_name": "怒江傈僳族自治州"
+			},
+			{
+				"id": "5334",
+				"pid": 53,
+				"deep": 1,
+				"name": "迪庆",
+				"pinyin": "di qing",
+				"pinyin_prefix": "d",
+				"ext_id": "533400000000",
+				"ext_name": "迪庆藏族自治州"
+			}
+		]
+	},
+	{
+		"id": "54",
+		"pid": 0,
+		"deep": 0,
+		"name": "西藏",
+		"pinyin": "xi zang",
+		"pinyin_prefix": "x",
+		"ext_id": "540000000000",
+		"ext_name": "西藏自治区",
+		"childs": [
+			{
+				"id": "5401",
+				"pid": 54,
+				"deep": 1,
+				"name": "拉萨",
+				"pinyin": "la sa",
+				"pinyin_prefix": "l",
+				"ext_id": "540100000000",
+				"ext_name": "拉萨市"
+			},
+			{
+				"id": "5402",
+				"pid": 54,
+				"deep": 1,
+				"name": "日喀则",
+				"pinyin": "ri ka ze",
+				"pinyin_prefix": "r",
+				"ext_id": "540200000000",
+				"ext_name": "日喀则市"
+			},
+			{
+				"id": "5403",
+				"pid": 54,
+				"deep": 1,
+				"name": "昌都",
+				"pinyin": "chang du",
+				"pinyin_prefix": "c",
+				"ext_id": "540300000000",
+				"ext_name": "昌都市"
+			},
+			{
+				"id": "5404",
+				"pid": 54,
+				"deep": 1,
+				"name": "林芝",
+				"pinyin": "lin zhi",
+				"pinyin_prefix": "l",
+				"ext_id": "540400000000",
+				"ext_name": "林芝市"
+			},
+			{
+				"id": "5405",
+				"pid": 54,
+				"deep": 1,
+				"name": "山南",
+				"pinyin": "shan nan",
+				"pinyin_prefix": "s",
+				"ext_id": "540500000000",
+				"ext_name": "山南市"
+			},
+			{
+				"id": "5406",
+				"pid": 54,
+				"deep": 1,
+				"name": "那曲",
+				"pinyin": "na qu",
+				"pinyin_prefix": "n",
+				"ext_id": "540600000000",
+				"ext_name": "那曲市"
+			},
+			{
+				"id": "5425",
+				"pid": 54,
+				"deep": 1,
+				"name": "阿里",
+				"pinyin": "a li",
+				"pinyin_prefix": "a",
+				"ext_id": "542500000000",
+				"ext_name": "阿里地区"
+			}
+		]
+	},
+	{
+		"id": "61",
+		"pid": 0,
+		"deep": 0,
+		"name": "陕西",
+		"pinyin": "shan xi",
+		"pinyin_prefix": "s",
+		"ext_id": "610000000000",
+		"ext_name": "陕西省",
+		"childs": [
+			{
+				"id": "6101",
+				"pid": 61,
+				"deep": 1,
+				"name": "西安",
+				"pinyin": "xi an",
+				"pinyin_prefix": "x",
+				"ext_id": "610100000000",
+				"ext_name": "西安市"
+			},
+			{
+				"id": "6102",
+				"pid": 61,
+				"deep": 1,
+				"name": "铜川",
+				"pinyin": "tong chuan",
+				"pinyin_prefix": "t",
+				"ext_id": "610200000000",
+				"ext_name": "铜川市"
+			},
+			{
+				"id": "6103",
+				"pid": 61,
+				"deep": 1,
+				"name": "宝鸡",
+				"pinyin": "bao ji",
+				"pinyin_prefix": "b",
+				"ext_id": "610300000000",
+				"ext_name": "宝鸡市"
+			},
+			{
+				"id": "6104",
+				"pid": 61,
+				"deep": 1,
+				"name": "咸阳",
+				"pinyin": "xian yang",
+				"pinyin_prefix": "x",
+				"ext_id": "610400000000",
+				"ext_name": "咸阳市"
+			},
+			{
+				"id": "6105",
+				"pid": 61,
+				"deep": 1,
+				"name": "渭南",
+				"pinyin": "wei nan",
+				"pinyin_prefix": "w",
+				"ext_id": "610500000000",
+				"ext_name": "渭南市"
+			},
+			{
+				"id": "6106",
+				"pid": 61,
+				"deep": 1,
+				"name": "延安",
+				"pinyin": "yan an",
+				"pinyin_prefix": "y",
+				"ext_id": "610600000000",
+				"ext_name": "延安市"
+			},
+			{
+				"id": "6107",
+				"pid": 61,
+				"deep": 1,
+				"name": "汉中",
+				"pinyin": "han zhong",
+				"pinyin_prefix": "h",
+				"ext_id": "610700000000",
+				"ext_name": "汉中市"
+			},
+			{
+				"id": "6108",
+				"pid": 61,
+				"deep": 1,
+				"name": "榆林",
+				"pinyin": "yu lin",
+				"pinyin_prefix": "y",
+				"ext_id": "610800000000",
+				"ext_name": "榆林市"
+			},
+			{
+				"id": "6109",
+				"pid": 61,
+				"deep": 1,
+				"name": "安康",
+				"pinyin": "an kang",
+				"pinyin_prefix": "a",
+				"ext_id": "610900000000",
+				"ext_name": "安康市"
+			},
+			{
+				"id": "6110",
+				"pid": 61,
+				"deep": 1,
+				"name": "商洛",
+				"pinyin": "shang luo",
+				"pinyin_prefix": "s",
+				"ext_id": "611000000000",
+				"ext_name": "商洛市"
+			}
+		]
+	},
+	{
+		"id": "62",
+		"pid": 0,
+		"deep": 0,
+		"name": "甘肃",
+		"pinyin": "gan su",
+		"pinyin_prefix": "g",
+		"ext_id": "620000000000",
+		"ext_name": "甘肃省",
+		"childs": [
+			{
+				"id": "6201",
+				"pid": 62,
+				"deep": 1,
+				"name": "兰州",
+				"pinyin": "lan zhou",
+				"pinyin_prefix": "l",
+				"ext_id": "620100000000",
+				"ext_name": "兰州市"
+			},
+			{
+				"id": "6202",
+				"pid": 62,
+				"deep": 1,
+				"name": "嘉峪关",
+				"pinyin": "jia yu guan",
+				"pinyin_prefix": "j",
+				"ext_id": "620200000000",
+				"ext_name": "嘉峪关市"
+			},
+			{
+				"id": "6203",
+				"pid": 62,
+				"deep": 1,
+				"name": "金昌",
+				"pinyin": "jin chang",
+				"pinyin_prefix": "j",
+				"ext_id": "620300000000",
+				"ext_name": "金昌市"
+			},
+			{
+				"id": "6204",
+				"pid": 62,
+				"deep": 1,
+				"name": "白银",
+				"pinyin": "bai yin",
+				"pinyin_prefix": "b",
+				"ext_id": "620400000000",
+				"ext_name": "白银市"
+			},
+			{
+				"id": "6205",
+				"pid": 62,
+				"deep": 1,
+				"name": "天水",
+				"pinyin": "tian shui",
+				"pinyin_prefix": "t",
+				"ext_id": "620500000000",
+				"ext_name": "天水市"
+			},
+			{
+				"id": "6206",
+				"pid": 62,
+				"deep": 1,
+				"name": "武威",
+				"pinyin": "wu wei",
+				"pinyin_prefix": "w",
+				"ext_id": "620600000000",
+				"ext_name": "武威市"
+			},
+			{
+				"id": "6207",
+				"pid": 62,
+				"deep": 1,
+				"name": "张掖",
+				"pinyin": "zhang ye",
+				"pinyin_prefix": "z",
+				"ext_id": "620700000000",
+				"ext_name": "张掖市"
+			},
+			{
+				"id": "6208",
+				"pid": 62,
+				"deep": 1,
+				"name": "平凉",
+				"pinyin": "ping liang",
+				"pinyin_prefix": "p",
+				"ext_id": "620800000000",
+				"ext_name": "平凉市"
+			},
+			{
+				"id": "6209",
+				"pid": 62,
+				"deep": 1,
+				"name": "酒泉",
+				"pinyin": "jiu quan",
+				"pinyin_prefix": "j",
+				"ext_id": "620900000000",
+				"ext_name": "酒泉市"
+			},
+			{
+				"id": "6210",
+				"pid": 62,
+				"deep": 1,
+				"name": "庆阳",
+				"pinyin": "qing yang",
+				"pinyin_prefix": "q",
+				"ext_id": "621000000000",
+				"ext_name": "庆阳市"
+			},
+			{
+				"id": "6211",
+				"pid": 62,
+				"deep": 1,
+				"name": "定西",
+				"pinyin": "ding xi",
+				"pinyin_prefix": "d",
+				"ext_id": "621100000000",
+				"ext_name": "定西市"
+			},
+			{
+				"id": "6212",
+				"pid": 62,
+				"deep": 1,
+				"name": "陇南",
+				"pinyin": "long nan",
+				"pinyin_prefix": "l",
+				"ext_id": "621200000000",
+				"ext_name": "陇南市"
+			},
+			{
+				"id": "6229",
+				"pid": 62,
+				"deep": 1,
+				"name": "临夏",
+				"pinyin": "lin xia",
+				"pinyin_prefix": "l",
+				"ext_id": "622900000000",
+				"ext_name": "临夏回族自治州"
+			},
+			{
+				"id": "6230",
+				"pid": 62,
+				"deep": 1,
+				"name": "甘南",
+				"pinyin": "gan nan",
+				"pinyin_prefix": "g",
+				"ext_id": "623000000000",
+				"ext_name": "甘南藏族自治州"
+			}
+		]
+	},
+	{
+		"id": "63",
+		"pid": 0,
+		"deep": 0,
+		"name": "青海",
+		"pinyin": "qing hai",
+		"pinyin_prefix": "q",
+		"ext_id": "630000000000",
+		"ext_name": "青海省",
+		"childs": [
+			{
+				"id": "6301",
+				"pid": 63,
+				"deep": 1,
+				"name": "西宁",
+				"pinyin": "xi ning",
+				"pinyin_prefix": "x",
+				"ext_id": "630100000000",
+				"ext_name": "西宁市"
+			},
+			{
+				"id": "6302",
+				"pid": 63,
+				"deep": 1,
+				"name": "海东",
+				"pinyin": "hai dong",
+				"pinyin_prefix": "h",
+				"ext_id": "630200000000",
+				"ext_name": "海东市"
+			},
+			{
+				"id": "6322",
+				"pid": 63,
+				"deep": 1,
+				"name": "海北",
+				"pinyin": "hai bei",
+				"pinyin_prefix": "h",
+				"ext_id": "632200000000",
+				"ext_name": "海北藏族自治州"
+			},
+			{
+				"id": "6323",
+				"pid": 63,
+				"deep": 1,
+				"name": "黄南",
+				"pinyin": "huang nan",
+				"pinyin_prefix": "h",
+				"ext_id": "632300000000",
+				"ext_name": "黄南藏族自治州"
+			},
+			{
+				"id": "6325",
+				"pid": 63,
+				"deep": 1,
+				"name": "海南",
+				"pinyin": "hai nan",
+				"pinyin_prefix": "h",
+				"ext_id": "632500000000",
+				"ext_name": "海南藏族自治州"
+			},
+			{
+				"id": "6326",
+				"pid": 63,
+				"deep": 1,
+				"name": "果洛",
+				"pinyin": "guo luo",
+				"pinyin_prefix": "g",
+				"ext_id": "632600000000",
+				"ext_name": "果洛藏族自治州"
+			},
+			{
+				"id": "6327",
+				"pid": 63,
+				"deep": 1,
+				"name": "玉树",
+				"pinyin": "yu shu",
+				"pinyin_prefix": "y",
+				"ext_id": "632700000000",
+				"ext_name": "玉树藏族自治州"
+			},
+			{
+				"id": "6328",
+				"pid": 63,
+				"deep": 1,
+				"name": "海西",
+				"pinyin": "hai xi",
+				"pinyin_prefix": "h",
+				"ext_id": "632800000000",
+				"ext_name": "海西蒙古族藏族自治州"
+			}
+		]
+	},
+	{
+		"id": "64",
+		"pid": 0,
+		"deep": 0,
+		"name": "宁夏",
+		"pinyin": "ning xia",
+		"pinyin_prefix": "n",
+		"ext_id": "640000000000",
+		"ext_name": "宁夏回族自治区",
+		"childs": [
+			{
+				"id": "6401",
+				"pid": 64,
+				"deep": 1,
+				"name": "银川",
+				"pinyin": "yin chuan",
+				"pinyin_prefix": "y",
+				"ext_id": "640100000000",
+				"ext_name": "银川市"
+			},
+			{
+				"id": "6402",
+				"pid": 64,
+				"deep": 1,
+				"name": "石嘴山",
+				"pinyin": "shi zui shan",
+				"pinyin_prefix": "s",
+				"ext_id": "640200000000",
+				"ext_name": "石嘴山市"
+			},
+			{
+				"id": "6403",
+				"pid": 64,
+				"deep": 1,
+				"name": "吴忠",
+				"pinyin": "wu zhong",
+				"pinyin_prefix": "w",
+				"ext_id": "640300000000",
+				"ext_name": "吴忠市"
+			},
+			{
+				"id": "6404",
+				"pid": 64,
+				"deep": 1,
+				"name": "固原",
+				"pinyin": "gu yuan",
+				"pinyin_prefix": "g",
+				"ext_id": "640400000000",
+				"ext_name": "固原市"
+			},
+			{
+				"id": "6405",
+				"pid": 64,
+				"deep": 1,
+				"name": "中卫",
+				"pinyin": "zhong wei",
+				"pinyin_prefix": "z",
+				"ext_id": "640500000000",
+				"ext_name": "中卫市"
+			}
+		]
+	},
+	{
+		"id": "65",
+		"pid": 0,
+		"deep": 0,
+		"name": "新疆",
+		"pinyin": "xin jiang",
+		"pinyin_prefix": "x",
+		"ext_id": "650000000000",
+		"ext_name": "新疆维吾尔自治区",
+		"childs": [
+			{
+				"id": "6501",
+				"pid": 65,
+				"deep": 1,
+				"name": "乌鲁木齐",
+				"pinyin": "wu lu mu qi",
+				"pinyin_prefix": "w",
+				"ext_id": "650100000000",
+				"ext_name": "乌鲁木齐市"
+			},
+			{
+				"id": "6502",
+				"pid": 65,
+				"deep": 1,
+				"name": "克拉玛依",
+				"pinyin": "ke la ma yi",
+				"pinyin_prefix": "k",
+				"ext_id": "650200000000",
+				"ext_name": "克拉玛依市"
+			},
+			{
+				"id": "6504",
+				"pid": 65,
+				"deep": 1,
+				"name": "吐鲁番",
+				"pinyin": "tu lu fan",
+				"pinyin_prefix": "t",
+				"ext_id": "650400000000",
+				"ext_name": "吐鲁番市"
+			},
+			{
+				"id": "6505",
+				"pid": 65,
+				"deep": 1,
+				"name": "哈密",
+				"pinyin": "ha mi",
+				"pinyin_prefix": "h",
+				"ext_id": "650500000000",
+				"ext_name": "哈密市"
+			},
+			{
+				"id": "6523",
+				"pid": 65,
+				"deep": 1,
+				"name": "昌吉",
+				"pinyin": "chang ji",
+				"pinyin_prefix": "c",
+				"ext_id": "652300000000",
+				"ext_name": "昌吉回族自治州"
+			},
+			{
+				"id": "6527",
+				"pid": 65,
+				"deep": 1,
+				"name": "博尔塔拉",
+				"pinyin": "bo er ta la",
+				"pinyin_prefix": "b",
+				"ext_id": "652700000000",
+				"ext_name": "博尔塔拉蒙古自治州"
+			},
+			{
+				"id": "6528",
+				"pid": 65,
+				"deep": 1,
+				"name": "巴音郭楞",
+				"pinyin": "ba yin guo leng",
+				"pinyin_prefix": "b",
+				"ext_id": "652800000000",
+				"ext_name": "巴音郭楞蒙古自治州"
+			},
+			{
+				"id": "6529",
+				"pid": 65,
+				"deep": 1,
+				"name": "阿克苏",
+				"pinyin": "a ke su",
+				"pinyin_prefix": "a",
+				"ext_id": "652900000000",
+				"ext_name": "阿克苏地区"
+			},
+			{
+				"id": "6530",
+				"pid": 65,
+				"deep": 1,
+				"name": "克孜勒苏",
+				"pinyin": "ke zi le su",
+				"pinyin_prefix": "k",
+				"ext_id": "653000000000",
+				"ext_name": "克孜勒苏柯尔克孜自治州"
+			},
+			{
+				"id": "6531",
+				"pid": 65,
+				"deep": 1,
+				"name": "喀什",
+				"pinyin": "ka shi",
+				"pinyin_prefix": "k",
+				"ext_id": "653100000000",
+				"ext_name": "喀什地区"
+			},
+			{
+				"id": "6532",
+				"pid": 65,
+				"deep": 1,
+				"name": "和田",
+				"pinyin": "he tian",
+				"pinyin_prefix": "h",
+				"ext_id": "653200000000",
+				"ext_name": "和田地区"
+			},
+			{
+				"id": "6540",
+				"pid": 65,
+				"deep": 1,
+				"name": "伊犁",
+				"pinyin": "yi li",
+				"pinyin_prefix": "y",
+				"ext_id": "654000000000",
+				"ext_name": "伊犁哈萨克自治州"
+			},
+			{
+				"id": "6542",
+				"pid": 65,
+				"deep": 1,
+				"name": "塔城",
+				"pinyin": "ta cheng",
+				"pinyin_prefix": "t",
+				"ext_id": "654200000000",
+				"ext_name": "塔城地区"
+			},
+			{
+				"id": "6543",
+				"pid": 65,
+				"deep": 1,
+				"name": "阿勒泰",
+				"pinyin": "a le tai",
+				"pinyin_prefix": "a",
+				"ext_id": "654300000000",
+				"ext_name": "阿勒泰地区"
+			},
+			{
+				"id": "659001",
+				"pid": 65,
+				"deep": 1,
+				"name": "石河子",
+				"pinyin": "shi he zi",
+				"pinyin_prefix": "s",
+				"ext_id": "659001000000",
+				"ext_name": "石河子市"
+			},
+			{
+				"id": "659002",
+				"pid": 65,
+				"deep": 1,
+				"name": "阿拉尔",
+				"pinyin": "a la er",
+				"pinyin_prefix": "a",
+				"ext_id": "659002000000",
+				"ext_name": "阿拉尔市"
+			},
+			{
+				"id": "659003",
+				"pid": 65,
+				"deep": 1,
+				"name": "图木舒克",
+				"pinyin": "tu mu shu ke",
+				"pinyin_prefix": "t",
+				"ext_id": "659003000000",
+				"ext_name": "图木舒克市"
+			},
+			{
+				"id": "659004",
+				"pid": 65,
+				"deep": 1,
+				"name": "五家渠",
+				"pinyin": "wu jia qu",
+				"pinyin_prefix": "w",
+				"ext_id": "659004000000",
+				"ext_name": "五家渠市"
+			},
+			{
+				"id": "659005",
+				"pid": 65,
+				"deep": 1,
+				"name": "北屯",
+				"pinyin": "bei tun",
+				"pinyin_prefix": "b",
+				"ext_id": "659005000000",
+				"ext_name": "北屯市"
+			},
+			{
+				"id": "659006",
+				"pid": 65,
+				"deep": 1,
+				"name": "铁门关",
+				"pinyin": "tie men guan",
+				"pinyin_prefix": "t",
+				"ext_id": "659006000000",
+				"ext_name": "铁门关市"
+			},
+			{
+				"id": "659007",
+				"pid": 65,
+				"deep": 1,
+				"name": "双河",
+				"pinyin": "shuang he",
+				"pinyin_prefix": "s",
+				"ext_id": "659007000000",
+				"ext_name": "双河市"
+			},
+			{
+				"id": "659008",
+				"pid": 65,
+				"deep": 1,
+				"name": "可克达拉",
+				"pinyin": "ke ke da la",
+				"pinyin_prefix": "k",
+				"ext_id": "659008000000",
+				"ext_name": "可克达拉市"
+			},
+			{
+				"id": "659009",
+				"pid": 65,
+				"deep": 1,
+				"name": "昆玉",
+				"pinyin": "kun yu",
+				"pinyin_prefix": "k",
+				"ext_id": "659009000000",
+				"ext_name": "昆玉市"
+			},
+			{
+				"id": "659010",
+				"pid": 65,
+				"deep": 1,
+				"name": "胡杨河",
+				"pinyin": "hu yang he",
+				"pinyin_prefix": "h",
+				"ext_id": "659010000000",
+				"ext_name": "胡杨河市"
+			}
+		]
+	},
+	{
+		"id": "71",
+		"pid": 0,
+		"deep": 0,
+		"name": "台湾",
+		"pinyin": "tai wan",
+		"pinyin_prefix": "~3",
+		"ext_id": "710000000000",
+		"ext_name": "台湾省",
+		"childs": [
+			{
+				"id": "7101",
+				"pid": 71,
+				"deep": 1,
+				"name": "台北",
+				"pinyin": "tai bei",
+				"pinyin_prefix": "t",
+				"ext_id": "710100000000",
+				"ext_name": "台北市"
+			},
+			{
+				"id": "7102",
+				"pid": 71,
+				"deep": 1,
+				"name": "高雄",
+				"pinyin": "gao xiong",
+				"pinyin_prefix": "g",
+				"ext_id": "710200000000",
+				"ext_name": "高雄市"
+			},
+			{
+				"id": "7103",
+				"pid": 71,
+				"deep": 1,
+				"name": "台南",
+				"pinyin": "tai nan",
+				"pinyin_prefix": "t",
+				"ext_id": "710300000000",
+				"ext_name": "台南市"
+			},
+			{
+				"id": "7104",
+				"pid": 71,
+				"deep": 1,
+				"name": "台中",
+				"pinyin": "tai zhong",
+				"pinyin_prefix": "t",
+				"ext_id": "710400000000",
+				"ext_name": "台中市"
+			},
+			{
+				"id": "7106",
+				"pid": 71,
+				"deep": 1,
+				"name": "南投",
+				"pinyin": "nan tou",
+				"pinyin_prefix": "n",
+				"ext_id": "710600000000",
+				"ext_name": "南投县"
+			},
+			{
+				"id": "7107",
+				"pid": 71,
+				"deep": 1,
+				"name": "基隆",
+				"pinyin": "ji long",
+				"pinyin_prefix": "j",
+				"ext_id": "710700000000",
+				"ext_name": "基隆市"
+			},
+			{
+				"id": "7108",
+				"pid": 71,
+				"deep": 1,
+				"name": "新竹市",
+				"pinyin": "xin zhu shi",
+				"pinyin_prefix": "x",
+				"ext_id": "710800000000",
+				"ext_name": "新竹市"
+			},
+			{
+				"id": "7109",
+				"pid": 71,
+				"deep": 1,
+				"name": "嘉义市",
+				"pinyin": "jia yi shi",
+				"pinyin_prefix": "j",
+				"ext_id": "710900000000",
+				"ext_name": "嘉义市"
+			},
+			{
+				"id": "7111",
+				"pid": 71,
+				"deep": 1,
+				"name": "新北",
+				"pinyin": "xin bei",
+				"pinyin_prefix": "x",
+				"ext_id": "711100000000",
+				"ext_name": "新北市"
+			},
+			{
+				"id": "7112",
+				"pid": 71,
+				"deep": 1,
+				"name": "宜兰",
+				"pinyin": "yi lan",
+				"pinyin_prefix": "y",
+				"ext_id": "711200000000",
+				"ext_name": "宜兰县"
+			},
+			{
+				"id": "7113",
+				"pid": 71,
+				"deep": 1,
+				"name": "新竹县",
+				"pinyin": "xin zhu xian",
+				"pinyin_prefix": "x",
+				"ext_id": "711300000000",
+				"ext_name": "新竹县"
+			},
+			{
+				"id": "7114",
+				"pid": 71,
+				"deep": 1,
+				"name": "桃园",
+				"pinyin": "tao yuan",
+				"pinyin_prefix": "t",
+				"ext_id": "711400000000",
+				"ext_name": "桃园市"
+			},
+			{
+				"id": "7115",
+				"pid": 71,
+				"deep": 1,
+				"name": "苗栗",
+				"pinyin": "miao li",
+				"pinyin_prefix": "m",
+				"ext_id": "711500000000",
+				"ext_name": "苗栗县"
+			},
+			{
+				"id": "7117",
+				"pid": 71,
+				"deep": 1,
+				"name": "彰化",
+				"pinyin": "zhang hua",
+				"pinyin_prefix": "z",
+				"ext_id": "711700000000",
+				"ext_name": "彰化县"
+			},
+			{
+				"id": "7119",
+				"pid": 71,
+				"deep": 1,
+				"name": "嘉义县",
+				"pinyin": "jia yi xian",
+				"pinyin_prefix": "j",
+				"ext_id": "711900000000",
+				"ext_name": "嘉义县"
+			},
+			{
+				"id": "7121",
+				"pid": 71,
+				"deep": 1,
+				"name": "云林",
+				"pinyin": "yun lin",
+				"pinyin_prefix": "y",
+				"ext_id": "712100000000",
+				"ext_name": "云林县"
+			},
+			{
+				"id": "7124",
+				"pid": 71,
+				"deep": 1,
+				"name": "屏东",
+				"pinyin": "ping dong",
+				"pinyin_prefix": "p",
+				"ext_id": "712400000000",
+				"ext_name": "屏东县"
+			},
+			{
+				"id": "7125",
+				"pid": 71,
+				"deep": 1,
+				"name": "台东",
+				"pinyin": "tai dong",
+				"pinyin_prefix": "t",
+				"ext_id": "712500000000",
+				"ext_name": "台东县"
+			},
+			{
+				"id": "7126",
+				"pid": 71,
+				"deep": 1,
+				"name": "花莲",
+				"pinyin": "hua lian",
+				"pinyin_prefix": "h",
+				"ext_id": "712600000000",
+				"ext_name": "花莲县"
+			},
+			{
+				"id": "7127",
+				"pid": 71,
+				"deep": 1,
+				"name": "澎湖",
+				"pinyin": "peng hu",
+				"pinyin_prefix": "p",
+				"ext_id": "712700000000",
+				"ext_name": "澎湖县"
+			}
+		]
+	},
+	{
+		"id": "81",
+		"pid": 0,
+		"deep": 0,
+		"name": "香港",
+		"pinyin": "xiang gang",
+		"pinyin_prefix": "~1",
+		"ext_id": "810000000000",
+		"ext_name": "香港特别行政区",
+		"childs": [
+			{
+				"id": "8100",
+				"pid": 81,
+				"deep": 1,
+				"name": "香港",
+				"pinyin": "xiang gang",
+				"pinyin_prefix": "x",
+				"ext_id": "810000000000",
+				"ext_name": "香港特别行政区"
+			}
+		]
+	},
+	{
+		"id": "82",
+		"pid": 0,
+		"deep": 0,
+		"name": "澳门",
+		"pinyin": "ao men",
+		"pinyin_prefix": "~2",
+		"ext_id": "820000000000",
+		"ext_name": "澳门特别行政区",
+		"childs": [
+			{
+				"id": "8200",
+				"pid": 82,
+				"deep": 1,
+				"name": "澳门",
+				"pinyin": "ao men",
+				"pinyin_prefix": "a",
+				"ext_id": "820000000000",
+				"ext_name": "澳门特别行政区"
+			}
+		]
+	},
+	{
+		"id": "91",
+		"pid": 0,
+		"deep": 0,
+		"name": "国外",
+		"pinyin": "guo wai",
+		"pinyin_prefix": "~4",
+		"ext_id": "0",
+		"ext_name": "国外",
+		"childs": [
+			{
+				"id": "9100",
+				"pid": 91,
+				"deep": 1,
+				"name": "国外",
+				"pinyin": "guo wai",
+				"pinyin_prefix": "g",
+				"ext_id": "0",
+				"ext_name": "国外"
+			}
+		]
+	}
+]

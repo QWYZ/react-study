@@ -1,0 +1,67 @@
+/*记忆口诀：盒子宽高均为零，三面边框皆透明。 */
+/* div:after{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    content: " ";
+    border-right: 100px solid transparent;
+    border-top: 100px solid #ff0;
+    border-left: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+} */
+html,
+body{
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background: skyblue;
+    position: fixed;
+}
+.nav2{
+    height: 50px;
+    background: skyblue;
+}
+.nav-item{
+    margin-left: 10px;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: lightcoral;
+    margin: 10px;
+}
+.h-center{
+    position:absolute;
+	left:50%;
+	transform:translateX(-50%);
+}
+.v-center{
+    position:absolute;
+	top:50%;
+	transform:translateY(-50%);
+}
+.hv-center{
+    position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+}
+/*在css中添加:after伪元素*/
+.clearfix::after{
+    /* 设置添加子元素的内容是空 */
+    content: '';
+    /* 设置添加子元素为块级元素 */
+    display: block;
+    /* 设置添加的子元素的高度0 */
+    height: 0;
+    /* 设置添加子元素看不见 */
+    visibility: hidden;
+    /* 设置clear：both */
+    clear: both;
+}
